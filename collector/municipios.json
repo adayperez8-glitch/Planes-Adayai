@@ -1,0 +1,86 @@
+{
+ "Las Palmas de Gran Canaria": {
+  "lat": 28.1235,
+  "lng": -15.4363
+ },
+ "Arucas": {
+  "lat": 28.1196,
+  "lng": -15.5233
+ },
+ "Firgas": {
+  "lat": 28.1068,
+  "lng": -15.5626
+ },
+ "Moya": {
+  "lat": 28.1109,
+  "lng": -15.5833
+ },
+ "Santa María de Guía": {
+  "lat": 28.1397,
+  "lng": -15.6327
+ },
+ "Gáldar": {
+  "lat": 28.145,
+  "lng": -15.6503
+ },
+ "Agaete": {
+  "lat": 28.1003,
+  "lng": -15.6986
+ },
+ "Teror": {
+  "lat": 28.0602,
+  "lng": -15.5477
+ },
+ "Valleseco": {
+  "lat": 28.0444,
+  "lng": -15.5739
+ },
+ "Vega de San Mateo": {
+  "lat": 28.0109,
+  "lng": -15.5328
+ },
+ "Tejeda": {
+  "lat": 27.9951,
+  "lng": -15.6146
+ },
+ "Artenara": {
+  "lat": 28.0204,
+  "lng": -15.6467
+ },
+ "Santa Brígida": {
+  "lat": 28.032,
+  "lng": -15.504
+ },
+ "Telde": {
+  "lat": 27.9924,
+  "lng": -15.4192
+ },
+ "Valsequillo": {
+  "lat": 27.9858,
+  "lng": -15.4979
+ },
+ "Ingenio": {
+  "lat": 27.9206,
+  "lng": -15.4366
+ },
+ "Agüimes": {
+  "lat": 27.9054,
+  "lng": -15.4461
+ },
+ "Santa Lucía de Tirajana": {
+  "lat": 27.847,
+  "lng": -15.443
+ },
+ "San Bartolomé de Tirajana": {
+  "lat": 27.76,
+  "lng": -15.57
+ },
+ "Mogán": {
+  "lat": 27.817,
+  "lng": -15.763
+ },
+ "La Aldea de San Nicolás": {
+  "lat": 27.9858,
+  "lng": -15.78
+ }
+}

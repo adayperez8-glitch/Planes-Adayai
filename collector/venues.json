@@ -1,0 +1,122 @@
+{
+ "Teatro Pérez Galdós": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1009,
+  "lng": -15.4146
+ },
+ "Auditorio Alfredo Kraus": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1302,
+  "lng": -15.4467
+ },
+ "CAAM": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1004,
+  "lng": -15.4157
+ },
+ "Casa de Colón": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1014,
+  "lng": -15.415
+ },
+ "Museo Canario": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1003,
+  "lng": -15.4171
+ },
+ "Teatro Cuyás": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1077,
+  "lng": -15.4186
+ },
+ "Plaza de Santa Ana, Vegueta": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1011,
+  "lng": -15.4139
+ },
+ "Playa de Las Canteras": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1415,
+  "lng": -15.4335
+ },
+ "INFECAR": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.0905,
+  "lng": -15.429
+ },
+ "Mercado de Vega de San Mateo": {
+  "municipality": "Vega de San Mateo",
+  "lat": 28.011,
+  "lng": -15.533
+ },
+ "Plaza de Teror": {
+  "municipality": "Teror",
+  "lat": 28.06,
+  "lng": -15.5475
+ },
+ "Mercado de Santa Brígida": {
+  "municipality": "Santa Brígida",
+  "lat": 28.032,
+  "lng": -15.501
+ },
+ "Roque Nublo": {
+  "municipality": "Tejeda",
+  "lat": 27.9707,
+  "lng": -15.6131
+ },
+ "Casco de Tejeda": {
+  "municipality": "Tejeda",
+  "lat": 27.9952,
+  "lng": -15.615
+ },
+ "Caldera de Bandama": {
+  "municipality": "Santa Brígida",
+  "lat": 28.035,
+  "lng": -15.456
+ },
+ "Casco de Arucas": {
+  "municipality": "Arucas",
+  "lat": 28.1195,
+  "lng": -15.523
+ },
+ "Cueva Pintada": {
+  "municipality": "Gáldar",
+  "lat": 28.1446,
+  "lng": -15.6557
+ },
+ "Puerto de Las Nieves": {
+  "municipality": "Agaete",
+  "lat": 28.0965,
+  "lng": -15.7125
+ },
+ "Barrio de San Juan": {
+  "municipality": "Telde",
+  "lat": 27.9935,
+  "lng": -15.417
+ },
+ "Casco de Agüimes": {
+  "municipality": "Agüimes",
+  "lat": 27.9055,
+  "lng": -15.446
+ },
+ "Dunas de Maspalomas": {
+  "municipality": "San Bartolomé de Tirajana",
+  "lat": 27.743,
+  "lng": -15.576
+ },
+ "Puerto de Mogán": {
+  "municipality": "Mogán",
+  "lat": 27.817,
+  "lng": -15.763
+ },
+ "Charco de La Aldea": {
+  "municipality": "La Aldea de San Nicolás",
+  "lat": 27.997,
+  "lng": -15.817
+ },
+ "Valsequillo": {
+  "municipality": "Valsequillo",
+  "lat": 27.986,
+  "lng": -15.498
+ }
+}

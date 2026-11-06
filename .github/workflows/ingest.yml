@@ -1,0 +1,23 @@
+# Cuando el recolector (tarea programada de Claude) sube un lote a events/, se valida y se carga en Supabase.
+name: Cargar eventos en Supabase
+on:
+  push:
+    branches: [main]
+    paths: ['events/*.json']
+  workflow_dispatch:
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Validar y cargar los lotes nuevos
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          FILES=$(git diff --name-only HEAD^ HEAD -- 'events/*.json' || true)
+          [ -z "$FILES" ] && FILES=$(ls events/*.json | sort | tail -1)
+          for f in $FILES; do node scripts/ingest.mjs "$f"; done
