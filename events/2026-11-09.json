@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:09:50Z",
+ "generated_at": "2026-11-09T14:22:52Z",
  "window_start": "2026-11-09T00:00:00+00:00",
  "window_end": "2026-11-15T23:59:59+00:00",
  "events": [
@@ -307,6 +307,64 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/gastronomia-maridaje-sonoro"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderismo-modelando-las-montanas-sagradas-de-gran-canaria-20261113-agaete",
+   "title": "Senderismo: Modelando las montañas sagradas de Gran Canaria",
+   "description": "Ruta cultural con degustación local y visita a un proyecto de lino en Gáldar.",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo",
+    "patrimonio"
+   ],
+   "starts_at": "2026-11-13T08:30:00+00:00",
+   "ends_at": "2026-11-13T15:30:00+00:00",
+   "all_day": false,
+   "venue": "Agaete",
+   "municipality": "Agaete",
+   "lat": 28.1003,
+   "lng": -15.6986,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://calendarioeventos.com/evento/senderismo-modelando-las-montanas-sagradas-de-gran-canaria",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-modelando-las-montanas-sagradas-de-gran-canaria"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderismo-naturaleza-trogloditismo-y-etnografia-3a-ed-20261113-galdar",
+   "title": "Senderismo: Naturaleza, trogloditismo y etnografía (3ª ed.)",
+   "description": "Senderismo con cultura y música por Fagajesto.",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo",
+    "patrimonio"
+   ],
+   "starts_at": "2026-11-13T08:45:00+00:00",
+   "ends_at": "2026-11-13T13:00:00+00:00",
+   "all_day": false,
+   "venue": "Fagajesto",
+   "municipality": "Gáldar",
+   "lat": 28.145,
+   "lng": -15.6503,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://calendarioeventos.com/evento/senderismo-3-edicion-de-naturaleza-trogloditismo-y-etnografia",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-3-edicion-de-naturaleza-trogloditismo-y-etnografia"
     }
    ],
    "conflicts": null
