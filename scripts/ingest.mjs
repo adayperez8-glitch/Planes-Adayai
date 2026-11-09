@@ -37,7 +37,11 @@ const { SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY } = process.env;
 if (SUPABASE_URL && SUPABASE_SERVICE_ROLE_KEY) {
   const res = await fetch(`${SUPABASE_URL}/rest/v1/rpc/ingest_events`, {
     method: 'POST',
-    headers: { apikey: SUPABASE_SERVICE_ROLE_KEY, Authorization: `Bearer ${SUPABASE_SERVICE_ROLE_KEY}`, 'Content-Type': 'application/json' },
+    // Claves nuevas (sb_secret_…) van solo en "apikey"; las antiguas (JWT eyJ…) también en Authorization
+    headers: {
+      apikey: SUPABASE_SERVICE_ROLE_KEY, 'Content-Type': 'application/json',
+      ...(SUPABASE_SERVICE_ROLE_KEY.startsWith('eyJ') ? { Authorization: `Bearer ${SUPABASE_SERVICE_ROLE_KEY}` } : {}),
+    },
     body: JSON.stringify({ payload: batch }),
   });
   const text = await res.text();
