@@ -160,3 +160,8 @@ h1, h2, h3 { font-family: var(--display); margin: 0; }
   .timebar { bottom: 12px; }
   .maplibregl-ctrl-bottom-left { bottom: 110px; }
 }
+
+.time-read.clear { border: 0; background: var(--lava); color: #fff; border-radius: 999px; padding: 4px 10px; font-size: 13px; min-width: 0; white-space: nowrap; }
+.time-read.idle-txt { color: var(--gris); font-family: inherit; font-weight: 600; font-size: 13px; }
+.day-head { font-family: var(--display); font-weight: 800; font-size: 14px; color: var(--azul); padding: 12px 8px 4px; border-bottom: 2px solid var(--amarillo); }
+.day-head::first-letter { text-transform: uppercase; }

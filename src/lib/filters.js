@@ -8,11 +8,12 @@ export const EMPTY_FILTERS = {
   zones: [],
   prices: [],
   bands: [],
+  day: null,             // ms (00:00 del día): solo eventos de ese día
   atTime: null,          // ms: solo eventos activos en ese instante
 };
 
 export const activeFilterCount = (f) =>
-  (f.who !== 'todos' ? 1 : 0) + f.categories.length + f.subs.length + f.zones.length + f.prices.length + f.bands.length + (f.atTime ? 1 : 0);
+  (f.who !== 'todos' ? 1 : 0) + f.categories.length + f.subs.length + f.zones.length + f.prices.length + f.bands.length + (f.day ? 1 : 0) + (f.atTime ? 1 : 0);
 
 const likesEvent = (likes, ev) => (ev.tags || []).some(t => likes.includes(t));
 
@@ -63,6 +64,11 @@ export function applyFilters(events, f, { window, myLikes, partnerLikes }) {
     if (f.zones.length && !f.zones.includes(ev.zone)) return false;
     if (!matchesPrice(ev, f.prices)) return false;
     if (!matchesBand(ev, f.bands)) return false;
+    if (f.day) {
+      // el día va de 00:00 a 03:00 del día siguiente (la noche cuenta para ese día)
+      const ds = new Date(f.day); const de = new Date(f.day + 86400000); de.setHours(3, 0, 0, 0);
+      if (!overlaps(iv, { s: ds, e: de })) return false;
+    }
     if (f.atTime) {
       const t = new Date(f.atTime);
       if (ev.allDay) { if (startOfDay(t) < startOfDay(iv.s) || t > iv.e) return false; }

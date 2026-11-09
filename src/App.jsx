@@ -8,7 +8,7 @@ import { weekendWindow, weekdayWindow, dayLabel } from './lib/time.js';
 import { pushSupport, pushEnabled, enablePush } from './lib/push.js';
 
 const LS_FILTERS = 'planes-adayai-filters';
-const loadFilters = () => { try { return { ...EMPTY_FILTERS, ...JSON.parse(localStorage.getItem(LS_FILTERS)), atTime: null }; } catch { return EMPTY_FILTERS; } };
+const loadFilters = () => { try { return { ...EMPTY_FILTERS, ...JSON.parse(localStorage.getItem(LS_FILTERS)), atTime: null, day: null }; } catch { return EMPTY_FILTERS; } };
 
 export default function App() {
   const [session, setSession] = useState(undefined);
@@ -25,7 +25,7 @@ export default function App() {
   const [error, setError] = useState('');
   const [push, setPush] = useState({ support: { ok: false }, enabled: false });
 
-  useEffect(() => { try { localStorage.setItem(LS_FILTERS, JSON.stringify({ ...filters, atTime: null })); } catch { /* */ } }, [filters]);
+  useEffect(() => { try { localStorage.setItem(LS_FILTERS, JSON.stringify({ ...filters, atTime: null, day: null })); } catch { /* */ } }, [filters]);
 
   useEffect(() => {
     store.session().then(setSession);
@@ -95,14 +95,15 @@ export default function App() {
       <ZigzagBand height={6} />
       <nav className="tabs">
         {[['finde', 'Este finde'], ['semana', 'Entre semana'], ['match', `💛 Match${favs.both.size ? ` (${favs.both.size})` : ''}`]].map(([id, label]) =>
-          <button key={id} className={tab === id ? 'on' : ''} onClick={() => { setTab(id); setFilters(f => ({ ...f, atTime: null })); }}>{label}</button>)}
+          <button key={id} className={tab === id ? 'on' : ''} onClick={() => { setTab(id); setFilters(f => ({ ...f, atTime: null, day: null })); }}>{label}</button>)}
       </nav>
       {MODE === 'demo' && <div className="demo-flag">Demo · eventos de ejemplo · viendo como <b>{me?.name}</b></div>}
       {error && <div className="error" onClick={() => setError('')}>{error} ✕</div>}
 
       <main className="stage">
         <MapView events={visible} selectedId={selected} onSelect={onSelect} favs={favs} />
-        {tab !== 'match' && <TimeBar window={win} atTime={filters.atTime} setAtTime={(t) => setFilters(f => ({ ...f, atTime: t }))} />}
+        {tab !== 'match' && <TimeBar window={win} day={filters.day} atTime={filters.atTime} allLabel={tab === 'finde' ? 'Todo el finde' : 'Toda la semana'}
+          setDay={(d) => setFilters(f => ({ ...f, day: d }))} setAtTime={(t) => setFilters(f => ({ ...f, atTime: t }))} />}
         <ListSheet events={visible} state={sheet} setState={setSheet} onSelect={onSelect} favs={favs}
           emptyText={tab === 'match' ? 'Aún no hay matches. Marca planes con ❤️ y, si a tu pareja también le gustan, aparecerán aquí.' : 'No hay planes con estos filtros. Prueba a quitar alguno.'} />
       </main>

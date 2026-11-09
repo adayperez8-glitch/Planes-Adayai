@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { CATEGORIES, CATEGORY_BY_ID, ZONES, PRICE_BUCKETS, BANDS, TAGS } from '../data/taxonomy.js';
 import { EMPTY_FILTERS, activeFilterCount, priceLabel } from '../lib/filters.js';
-import { formatWhen, dayLabel, hhmm, startOfDay } from '../lib/time.js';
+import { formatWhen, dayLabel, hhmm, startOfDay, longDate } from '../lib/time.js';
 import { ZigzagBand, Tunera, Volcan } from './Motifs.jsx';
 
 const toggle = (arr, v) => (arr.includes(v) ? arr.filter(x => x !== v) : [...arr, v]);
@@ -99,30 +99,32 @@ export function FilterPanel({ open, onClose, filters, setFilters, me }) {
 }
 
 /* ------------------------- Barra de horas ------------------------- */
-export function TimeBar({ window, atTime, setAtTime }) {
+// Fila 1: elegir día (o todos). Fila 2: afinar a una hora concreta (opcional).
+export function TimeBar({ window, day, atTime, setDay, setAtTime, allLabel }) {
   const step = 30 * 60000;
   const days = [];
   for (let d = startOfDay(window.start); d <= window.end; d = new Date(d.getTime() + 86400000)) days.push(d);
-  const value = atTime ?? window.start.getTime();
-  const goDay = (d) => {
-    const t = new Date(d); t.setHours(t.getTime() === startOfDay(window.start).getTime() ? Math.max(window.start.getHours(), 10) : 10, 0, 0, 0);
-    setAtTime(Math.min(Math.max(t.getTime(), window.start.getTime()), window.end.getTime()));
-  };
+  // rango de la barra: el día elegido (recortado a la ventana) o toda la ventana
+  let lo = window.start.getTime(), hi = window.end.getTime();
+  if (day) { lo = Math.max(lo, day + 8 * 3600000); hi = Math.min(hi, day + 27 * 3600000); }
+  if (hi <= lo) hi = lo + step;
+  const value = atTime != null ? Math.min(Math.max(atTime, lo), hi) : lo;
   return (
     <div className="timebar">
       <div className="timebar-top">
-        <button className={'chip small' + (!atTime ? ' on' : '')} onClick={() => setAtTime(null)}>Cualquier hora</button>
-        <div className="days">
-          {days.map(d => {
-            const on = atTime && startOfDay(new Date(atTime)).getTime() === d.getTime();
-            return <button key={d.getTime()} className={'chip small' + (on ? ' on' : '')} onClick={() => goDay(d)}>{dayLabel(d).split(' ').slice(0, 2).join(' ')}</button>;
-          })}
-        </div>
+        <button className={'chip small' + (!day ? ' on' : '')} onClick={() => { setDay(null); setAtTime(null); }}>{allLabel}</button>
+        {days.map(d => {
+          const on = day === d.getTime();
+          return <button key={d.getTime()} className={'chip small' + (on ? ' on' : '')}
+            onClick={() => { setDay(on ? null : d.getTime()); setAtTime(null); }}>{dayLabel(d).split(' ').slice(0, 2).join(' ')}</button>;
+        })}
       </div>
       <div className="timebar-slider">
-        <input type="range" aria-label="Hora" min={window.start.getTime()} max={window.end.getTime()} step={step}
+        <input type="range" aria-label="Hora" min={lo} max={hi} step={step}
           value={value} onChange={(e) => setAtTime(Number(e.target.value))} className={atTime ? '' : 'idle'} />
-        <span className="time-read">{atTime ? `${dayLabel(new Date(atTime)).split(' ')[0]} ${hhmm(new Date(atTime))}` : 'Desliza'}</span>
+        {atTime
+          ? <button className="time-read clear" onClick={() => setAtTime(null)} aria-label="Quitar hora">{`${dayLabel(new Date(atTime)).split(' ')[0]} ${hhmm(new Date(atTime))}`} ✕</button>
+          : <span className="time-read idle-txt">Cualquier hora</span>}
       </div>
     </div>
   );
@@ -157,7 +159,14 @@ export function ListSheet({ events, state, setState, onSelect, favs, emptyText }
         <span className="sheet-hint">{state === 'full' ? 'Ocultar' : state === 'half' ? 'Ampliar' : 'Ver lista'}</span>
       </button>
       <ul className="list">
-        {events.map(ev => <EventRow key={ev.id} ev={ev} onSelect={onSelect} favs={favs} />)}
+        {events.map((ev, i) => {
+          const d = startOfDay(new Date(ev.start)).getTime();
+          const prev = i ? startOfDay(new Date(events[i - 1].start)).getTime() : null;
+          return [
+            d !== prev && <li key={'h' + d} className="day-head">{longDate(new Date(d))}</li>,
+            <EventRow key={ev.id} ev={ev} onSelect={onSelect} favs={favs} />,
+          ];
+        })}
         {!events.length && (
           <li className="empty"><Volcan size={70} /><p>{emptyText}</p></li>
         )}
