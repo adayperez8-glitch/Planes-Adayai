@@ -11,15 +11,20 @@ El recolector las recorre todas y contrasta los datos entre ellas. En la primera
 - Agendas generales de ocio de Gran Canaria y Canarias (prensa local, guías de ocio). → URLs: *(confirmar)*
 
 ## Instituciones
-- Cabildo de Gran Canaria: agenda de cultura y de deportes.
-- Turismo de Gran Canaria: agenda de eventos.
+- **Portal de eventos del Cabildo** (eventosgrancanaria.com → datagran.grancanaria.com/eventos): ⛔ su robots.txt no permite lectores automáticos. **No usar.**
+- **Turismo de Gran Canaria (Cabildo)**: ✅ `https://www.grancanaria.com/turismo/pt/agenda/agenda` (la versión /es/ dio error el 9-nov). Pocos eventos, pero grandes (ferias, ARC, pruebas deportivas). Ficha: `?r=event%2Fview&event=<id>&id=4066&L=8`
+- **LPA Cultura (Ayuntamiento de Las Palmas de GC)**: ✅ `https://www.lpacultura.com/events` (tiene 2 páginas; fichas `/events/<slug>`). Buena para cine, literatura y danza en la capital.
 - Gobierno de Canarias: agenda cultural.
 - Agendas municipales de los 21 ayuntamientos. Las que más mueven: Las Palmas de GC, Telde, Arucas, Santa Brígida, Vega de San Mateo, Teror, Gáldar, Agüimes, Ingenio, San Bartolomé de Tirajana y Mogán.
 
 ## Salas y museos
-- Teatro Pérez Galdós, Auditorio Alfredo Kraus, Teatro Cuyás, Teatro Guiniguada
+- **Auditorio Alfredo Kraus + Teatro Pérez Galdós**: ✅ `https://auditorioteatrolaspalmasgc.es/programacion` (portada con la semana; fichas `auditorioalfredokraus.es/evento/<slug>` y `teatroperezgaldos.es/evento/<slug>`). No siempre muestra hora ni precio: cógelos de calendarioeventos.
+- Teatro Cuyás, Teatro Guiniguada
 - CAAM, Casa de Colón, Museo Canario, Museo Elder, Cueva Pintada, Casa-Museo Pérez Galdós
 - Gran Canaria Arena, Estadio de Gran Canaria, INFECAR
+
+## Conciertos
+- La Ganzúa: ✅ `https://www.laganzua.net/conciertos/las-palmas-de-gran-canaria` (solo grandes conciertos; útil para confirmar fecha, sala y precio)
 
 ## Venta de entradas
 - Tomaticket, Entradas.com, Ticketmaster, Eventbrite (filtrar por Gran Canaria)

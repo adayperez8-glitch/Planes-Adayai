@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:22:52Z",
+ "generated_at": "2026-11-09T14:29:08Z",
  "window_start": "2026-11-09T00:00:00+00:00",
  "window_end": "2026-11-15T23:59:59+00:00",
  "events": [
@@ -84,6 +84,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-aniversario-orquesta-renacimiento"
+    },
+    {
+     "name": "Teatro Pérez Galdós",
+     "url": "https://teatroperezgaldos.es/evento/concierto-aniversario"
     }
    ],
    "conflicts": null
@@ -278,6 +282,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski"
+    },
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/chichon-dirige-shostakovich-y-mussorgsky-top-5"
     }
    ],
    "conflicts": null
@@ -617,6 +625,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski"
+    },
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/chichon-dirige-shostakovich-y-mussorgsky"
     }
    ],
    "conflicts": null
@@ -1085,6 +1097,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda"
+    },
+    {
+     "name": "Turismo de Gran Canaria (Cabildo)",
+     "url": "http://www.grancanaria.com/turismo/pt/agenda/agenda/?r=event%2Fview&event=11877&id=4066&L=8"
     }
    ],
    "conflicts": null
@@ -1539,6 +1555,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-musica-viva-om-dominguez-y-the-freedom-way"
+    },
+    {
+     "name": "LPA Cultura",
+     "url": "https://www.lpacultura.com/events/2321-musica-viva"
     }
    ],
    "conflicts": null
@@ -1650,6 +1670,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-pleito"
+    },
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/pleito"
     }
    ],
    "conflicts": null
@@ -1762,6 +1786,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-techno-pop"
+    },
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/techno-pop"
     }
    ],
    "conflicts": null
@@ -1956,6 +1984,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda"
+    },
+    {
+     "name": "Turismo de Gran Canaria (Cabildo)",
+     "url": "http://www.grancanaria.com/turismo/pt/agenda/agenda/?r=event%2Fview&event=11877&id=4066&L=8"
     }
    ],
    "conflicts": null
@@ -2266,6 +2298,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/concierto-erase-una-vez-la-tele"
+    },
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/erase-una-vez-la-tele"
     }
    ],
    "conflicts": null
@@ -2353,6 +2389,190 @@
     }
    ],
    "conflicts": "La ficha no indica municipio; la descripción lo sitúa en Arucas."
+  },
+  {
+   "id": "efecto-cinema-la-noche-esta-marchandose-ya-20261111-las-palmas-de-gran-canaria",
+   "title": "Efecto cinema: «La noche está marchándose ya»",
+   "description": "Proyección del ciclo Efecto cinema.",
+   "category": "cultura",
+   "subcategory": "cine",
+   "tags": [
+    "cine",
+    "cultura"
+   ],
+   "starts_at": "2026-11-11T19:00:00+00:00",
+   "ends_at": "2026-11-11T20:45:00+00:00",
+   "all_day": false,
+   "venue": "Yelmo Cines Las Arenas",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1225,
+   "lng": -15.4508,
+   "price_min": 6,
+   "price_max": 6.4,
+   "url": "https://calendarioeventos.com/evento/cine-efecto-cinema-la-noche-esta-marchandose-ya",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/cine-efecto-cinema-la-noche-esta-marchandose-ya"
+    },
+    {
+     "name": "LPA Cultura",
+     "url": "https://www.lpacultura.com/events/efecto-cinema-la-noche-esta-marchandose-ya"
+    }
+   ],
+   "conflicts": "calendarioeventos indica 6 € y LPA Cultura 6,40 €."
+  },
+  {
+   "id": "stravinski-in-memoriam-homenaje-a-jeronimo-saavedra-20261112-las-palmas-de-gran-canaria",
+   "title": "Stravinski in memoriam: homenaje a Jerónimo Saavedra",
+   "description": "Homenaje con artes escénicas y danza.",
+   "category": "cultura",
+   "subcategory": "danza",
+   "tags": [
+    "ballet",
+    "baile",
+    "cultura"
+   ],
+   "starts_at": "2026-11-12T19:00:00+00:00",
+   "ends_at": "2026-11-12T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Paraninfo ULPGC",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1046,
+   "lng": -15.4171,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://www.lpacultura.com/events/stravinski-in-memoriam-homenaje-a-jeronimo-saavedra",
+   "sources": [
+    {
+     "name": "LPA Cultura",
+     "url": "https://www.lpacultura.com/events/stravinski-in-memoriam-homenaje-a-jeronimo-saavedra"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "michael-jackson-invincible-el-legado-25-aniversario-20261113-las-palmas-de-gran-canaria",
+   "title": "Michael Jackson, «Invincible»: el legado (25 aniversario)",
+   "description": "Charla y coloquio por los 25 años del disco, con sorteo para inscritos.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos",
+    "charlas"
+   ],
+   "starts_at": "2026-11-13T17:00:00+00:00",
+   "ends_at": "2026-11-13T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Municipal Alexis Ravelo",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/michael-jackson-invincible-25-aniversario-el-legado-mvva3kn2",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/michael-jackson-invincible-25-aniversario-el-legado-mvva3kn2"
+    },
+    {
+     "name": "LPA Cultura",
+     "url": "https://www.lpacultura.com/events/2366-michael-jackson-invincible-el-legado-25-aniversario"
+    }
+   ],
+   "conflicts": "calendarioeventos indica fin a las 20:30 y LPA Cultura a las 20:20."
+  },
+  {
+   "id": "leo-leo-leonor-watling-y-leo-sidran-rincon-del-jazz-20261113-las-palmas-de-gran-canaria",
+   "title": "Leo & Leo: Leonor Watling y Leo Sidran (Rincón del Jazz)",
+   "description": "Leonor Watling y Leo Sidran en el ciclo Jazz Otoño.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T20:30:00+00:00",
+   "ends_at": "2026-11-13T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://auditorioalfredokraus.es/evento/leo-leo",
+   "sources": [
+    {
+     "name": "Auditorio Alfredo Kraus",
+     "url": "https://auditorioalfredokraus.es/evento/leo-leo"
+    },
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-leo-y-leo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "recital-poetico-voces-de-gaza-20261114-las-palmas-de-gran-canaria",
+   "title": "Recital poético «Voces de Gaza»",
+   "description": "Recital solidario de poesía con lecturas y música (Tamaraceite).",
+   "category": "cultura",
+   "subcategory": "literatura",
+   "tags": [
+    "literatura",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T19:00:00+00:00",
+   "ends_at": "2026-11-14T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Municipal Alexis Ravelo",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/poesia-voces-de-gaza",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/poesia-voces-de-gaza"
+    },
+    {
+     "name": "LPA Cultura",
+     "url": "https://www.lpacultura.com/events/voces-de-gaza"
+    }
+   ],
+   "conflicts": "calendarioeventos indica fin a las 20:00 y LPA Cultura a las 20:30."
+  },
+  {
+   "id": "arc-2026-los-veleros-que-cruzan-el-atlantico-20261109-las-palmas-de-gran-canaria",
+   "title": "ARC 2026: los veleros que cruzan el Atlántico",
+   "description": "Cientos de veleros se preparan en el Muelle Deportivo para la travesía atlántica (8–22 nov). Se puede pasear y verlos.",
+   "category": "airelibre",
+   "subcategory": "playa",
+   "tags": [
+    "playa",
+    "deportes"
+   ],
+   "starts_at": "2026-11-09T09:00:00+00:00",
+   "ends_at": "2026-11-22T20:00:00+00:00",
+   "all_day": true,
+   "venue": "Muelle Deportivo de Las Palmas",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1283,
+   "lng": -15.4296,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "http://www.grancanaria.com/turismo/pt/agenda/agenda/?r=event%2Fview&event=7319&id=4066&L=8",
+   "sources": [
+    {
+     "name": "Turismo de Gran Canaria (Cabildo)",
+     "url": "http://www.grancanaria.com/turismo/pt/agenda/agenda/?r=event%2Fview&event=7319&id=4066&L=8"
+    }
+   ],
+   "conflicts": null
   }
  ]
 }

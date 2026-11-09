@@ -203,5 +203,20 @@
   "municipality": "Las Palmas de Gran Canaria",
   "lat": 28.1008,
   "lng": -15.4136
+ },
+ "Muelle Deportivo de Las Palmas": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1283,
+  "lng": -15.4296
+ },
+ "Yelmo Cines Las Arenas": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1225,
+  "lng": -15.4508
+ },
+ "Paraninfo ULPGC": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1046,
+  "lng": -15.4171
  }
 }
