@@ -18,16 +18,15 @@ export function weekendWindow(now = new Date()) {
   return { start, end };
 }
 
-/** Lunes 00:00 (o ahora) → viernes 14:00 de esta semana; si ya es finde, la siguiente. */
+/** Entre semana = lunes 00:00 (u hoy) → jueves 23:59. De viernes a domingo, la semana siguiente.
+ *  (El viernes pertenece al finde.) */
 export function weekdayWindow(now = new Date()) {
   const dow = now.getDay();
   const today = startOfDay(now);
-  const fri14 = (mon) => { const f = new Date(mon.getTime() + 4 * DAY); f.setHours(14, 0, 0, 0); return f; };
+  const thuEnd = (mon) => { const t = new Date(mon.getTime() + 3 * DAY); t.setHours(23, 59, 59, 999); return t; };
   let monday = new Date(today.getTime() - ((dow + 6) % 7) * DAY);
-  let end = fri14(monday);
-  // si queda menos de un día de semana laboral, saltamos a la semana siguiente
-  if (end.getTime() - now.getTime() < DAY) { monday = new Date(monday.getTime() + 7 * DAY); end = fri14(monday); return { start: monday, end }; }
-  return { start: today > monday ? today : monday, end };
+  if (now > thuEnd(monday)) { monday = new Date(monday.getTime() + 7 * DAY); return { start: monday, end: thuEnd(monday) }; }
+  return { start: today > monday ? today : monday, end: thuEnd(monday) };
 }
 
 export const DAY_NAMES = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];

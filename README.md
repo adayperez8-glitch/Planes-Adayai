@@ -5,7 +5,7 @@ Se actualiza los **lunes** (entre semana) y los **jueves** (finde). Coste: **0 �
 
 ## Qué hace
 - Mapa de la isla con pines por tipo de plan. Una barra de horas filtra lo que pasa a una hora concreta.
-- Pestañas **Este finde** (viernes 14:00 → domingo 23:59), **Entre semana** y **💛 Match**.
+- Pestañas **Este finde** (viernes 14:00 → domingo 23:59), **Entre semana** (lunes → jueves) y **💛 Match**.
 - Filtros a la derecha: para quién (Aday / Yai / Los dos), tipo y subtipo, zona, precio y franja horaria.
 - Favoritos ❤️. Cuando los dos marcáis el mismo plan, aparece en **Match**, en tiempo real.
 - Perfiles con gustos editables.
