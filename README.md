@@ -71,7 +71,7 @@ En **Settings → Secrets and variables → Actions**, añade `SUPABASE_URL` y `
 ### 4. Vercel (plan Hobby)
 1. Importa el repositorio.
 2. Añade las variables de `.env.example`: `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` y `VITE_VAPID_PUBLIC_KEY`.
-3. Despliega. Los commits que solo tocan `events/` no vuelven a construir la web.
+3. Despliega.
 
 ### 5. Cuentas
 1. Aday y Yai se registran desde la app, con su nombre (así salen sus gustos por defecto).
