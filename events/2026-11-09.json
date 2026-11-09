@@ -1,0 +1,2300 @@
+{
+ "generated_at": "2026-11-09T14:09:50Z",
+ "window_start": "2026-11-09T00:00:00+00:00",
+ "window_end": "2026-11-15T23:59:59+00:00",
+ "events": [
+  {
+   "id": "lpa-fotosub-2026-fotografia-submarina-en-las-canteras-20261109-las-palmas-de-gran-canaria",
+   "title": "LPA Fotosub 2026: fotografía submarina en Las Canteras",
+   "description": "Muestra de fotografía submarina con buceo, snorkel y actividades familiares (9–15 nov).",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "playa",
+    "exposiciones",
+    "deportes"
+   ],
+   "starts_at": "2026-11-09T09:00:00+00:00",
+   "ends_at": "2026-11-09T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Playa de Las Canteras",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1415,
+   "lng": -15.4335,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/fotografia-lpa-fotosub-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/fotografia-lpa-fotosub-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "cine-dragon-ball-super-broly-vose-20261110-las-palmas-de-gran-canaria",
+   "title": "Cine: Dragon Ball Super: Broly (VOSE)",
+   "description": "Proyección en versión original del ciclo «Japón se anima».",
+   "category": "popfriki",
+   "subcategory": "anime",
+   "tags": [
+    "anime",
+    "cine"
+   ],
+   "starts_at": "2026-11-10T19:00:00+00:00",
+   "ends_at": "2026-11-10T20:40:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Guiniguada",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1019,
+   "lng": -15.4153,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/cine-dragon-ball-super-broly",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/cine-dragon-ball-super-broly"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "concierto-aniversario-orquesta-renacimiento-20261110-las-palmas-de-gran-canaria",
+   "title": "Concierto aniversario Orquesta Renacimiento",
+   "description": "Concierto de aniversario de la Sociedad Filarmónica.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-10T20:00:00+00:00",
+   "ends_at": "2026-11-10T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Pérez Galdós",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1009,
+   "lng": -15.4146,
+   "price_min": 26,
+   "price_max": 26,
+   "url": "https://calendarioeventos.com/evento/concierto-aniversario-orquesta-renacimiento",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-aniversario-orquesta-renacimiento"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "visita-guiada-oliva-lara-ultimo-pintor-indigenista-americano-20261111-galdar",
+   "title": "Visita guiada: Oliva Lara, último pintor indigenista americano",
+   "description": "Visita guiada gratuita a la exposición, hasta completar aforo.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-11T18:00:00+00:00",
+   "ends_at": "2026-11-11T19:30:00+00:00",
+   "all_day": false,
+   "venue": "Museo Agáldar",
+   "municipality": "Gáldar",
+   "lat": 28.145,
+   "lng": -15.6503,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/visita-guiada-exposicion-oliva-lara-ultimo-pintor-indigenista-americano",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/visita-guiada-exposicion-oliva-lara-ultimo-pintor-indigenista-americano"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "taller-de-pescado-para-sushi-20261111-las-palmas-de-gran-canaria",
+   "title": "Taller de pescado para sushi",
+   "description": "Taller práctico para elegir, cortar y preparar pescado para sushi. Requiere inscripción.",
+   "category": "gastronomia",
+   "subcategory": "comida",
+   "tags": [
+    "gastronomia",
+    "talleres"
+   ],
+   "starts_at": "2026-11-11T18:00:00+00:00",
+   "ends_at": "2026-11-11T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Komité",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 65,
+   "price_max": 65,
+   "url": "https://calendarioeventos.com/evento/gastronomia-taller-pescado-para-sushi",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-taller-pescado-para-sushi"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "cinzia-mare-en-el-buenos-aires-jazz-cafe-20261111-las-palmas-de-gran-canaria",
+   "title": "Cinzia Mare en el Buenos Aires Jazz Café",
+   "description": "Jazz en directo con taquilla inversa (pagas lo que quieras).",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-11T20:30:00+00:00",
+   "ends_at": "2026-11-11T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Buenos Aires Jazz Café (Vegueta)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1012,
+   "lng": -15.4143,
+   "price_min": 0,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/concierto-cinzia-mare",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-cinzia-mare"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "la-noche-de-tapas-35110-20261112-santa-lucia-de-tirajana",
+   "title": "La Noche de Tapas 35110",
+   "description": "Noche de tapas y música en la plaza (Vecindario).",
+   "category": "gastronomia",
+   "subcategory": "comida",
+   "tags": [
+    "gastronomia",
+    "conciertos"
+   ],
+   "starts_at": "2026-11-12T19:00:00+00:00",
+   "ends_at": "2026-11-12T23:55:00+00:00",
+   "all_day": false,
+   "venue": "Plaza de los Algodoneros",
+   "municipality": "Santa Lucía de Tirajana",
+   "lat": 27.847,
+   "lng": -15.443,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/gastronomia-la-noche-de-tapas-35110",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-la-noche-de-tapas-35110"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "20-anos-de-abubukaka-1a-parte-20261112-las-palmas-de-gran-canaria",
+   "title": "20 años de Abubukaka (1ª parte)",
+   "description": "Humor canario: sketches e improvisación por su 20 aniversario. Recomendado +14.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-12T20:00:00+00:00",
+   "ends_at": "2026-11-12T21:10:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Guiniguada",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1019,
+   "lng": -15.4153,
+   "price_min": 18,
+   "price_max": 18,
+   "url": "https://calendarioeventos.com/evento/teatro-20-anos-de-abubukaka-1-parte",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-20-anos-de-abubukaka-1-parte"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "son-de-la-cueva-jazz-en-el-barrio-20261112-las-palmas-de-gran-canaria",
+   "title": "Son de la Cueva (Jazz en el Barrio)",
+   "description": "Concierto dentro del ciclo Jazz en el Barrio.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-12T20:00:00+00:00",
+   "ends_at": "2026-11-12T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Sala Faro",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 5,
+   "price_max": 5,
+   "url": "https://calendarioeventos.com/evento/concierto-son-de-la-cueva",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-son-de-la-cueva"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "filarmonica-chichon-dirige-shostakovich-y-mussorgski-20261112-las-palmas-de-gran-canaria",
+   "title": "Filarmónica: Chichon dirige Shostakovich y Mussorgski",
+   "description": "Orquesta Filarmónica de Gran Canaria con Karel Mark Chichon y Sergej Krylov.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-12T20:00:00+00:00",
+   "ends_at": "2026-11-12T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": 14,
+   "price_max": 14,
+   "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "maridaje-sonoro-vino-y-musica-en-directo-20261112-santa-brigida",
+   "title": "Maridaje sonoro: vino y música en directo",
+   "description": "Maridaje de vinos con música en directo, en dos sesiones.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "conciertos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-12T20:30:00+00:00",
+   "ends_at": "2026-11-12T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Centro Cultural Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.504,
+   "price_min": 5,
+   "price_max": 5,
+   "url": "https://calendarioeventos.com/evento/gastronomia-maridaje-sonoro",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-maridaje-sonoro"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "cata-la-voz-de-la-albariza-20261113-las-palmas-de-gran-canaria",
+   "title": "Cata «La Voz de la Albariza»",
+   "description": "Cata de vinos de suelos de albariza.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-13T18:00:00+00:00",
+   "ends_at": "2026-11-13T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Vinófilos Triana",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 40,
+   "price_max": 40,
+   "url": "https://calendarioeventos.com/evento/gastronomia-la-voz-de-la-albariza",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-la-voz-de-la-albariza"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "festival-iii-mar-mujeres-africanas-rodando-20261113-aguimes",
+   "title": "Festival III MAR – Mujeres Africanas Rodando",
+   "description": "Proyecciones, coloquios, mesa redonda y música (12–14 nov).",
+   "category": "cultura",
+   "subcategory": "cine",
+   "tags": [
+    "cine",
+    "cultura"
+   ],
+   "starts_at": "2026-11-13T18:00:00+00:00",
+   "ends_at": "2026-11-13T22:30:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Auditorio de Agüimes",
+   "municipality": "Agüimes",
+   "lat": 27.9054,
+   "lng": -15.4461,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/festival-iii-mar-mujeres-africanas-rodando-12-14-nov-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/festival-iii-mar-mujeres-africanas-rodando-12-14-nov-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vivos-o-inmortales-world-tour-2026-20261113-san-bartolome-de-tirajana",
+   "title": "Vivos o Inmortales World Tour 2026",
+   "description": "Concierto en directo en Holiday World (El Patio).",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T19:00:00+00:00",
+   "ends_at": "2026-11-13T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Holiday World",
+   "municipality": "San Bartolomé de Tirajana",
+   "lat": 27.7639,
+   "lng": -15.5838,
+   "price_min": 45,
+   "price_max": 45,
+   "url": "https://calendarioeventos.com/evento/concierto-vivos-o-inmortales-world-tour-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-vivos-o-inmortales-world-tour-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "flamenc-oh-de-yllana-20261113-las-palmas-de-gran-canaria",
+   "title": "FLAMENC OH! de Yllana",
+   "description": "Teatro gestual con flamenco.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro",
+    "baile"
+   ],
+   "starts_at": "2026-11-13T19:30:00+00:00",
+   "ends_at": "2026-11-13T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 23,
+   "price_max": 23,
+   "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "danza-la-necesidad-de-ir-descalzas-20261113-galdar",
+   "title": "Danza: «La necesidad de ir descalzas»",
+   "description": "Danza contemporánea inspirada en la obra de Antonio Padrón.",
+   "category": "cultura",
+   "subcategory": "danza",
+   "tags": [
+    "baile",
+    "cultura",
+    "museos"
+   ],
+   "starts_at": "2026-11-13T19:30:00+00:00",
+   "ends_at": "2026-11-13T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo Antonio Padrón",
+   "municipality": "Gáldar",
+   "lat": 28.145,
+   "lng": -15.6503,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/danza-la-necesidad-de-ir-descalzas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/danza-la-necesidad-de-ir-descalzas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "inauguracion-de-la-exposicion-asilo-20261113-las-palmas-de-gran-canaria",
+   "title": "Inauguración de la exposición «Asilo»",
+   "description": "Apertura de la muestra de escultura de Marcos Díaz.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "cultura"
+   ],
+   "starts_at": "2026-11-13T19:30:00+00:00",
+   "ends_at": "2026-11-13T21:00:00+00:00",
+   "all_day": false,
+   "venue": "S/T Espacio Cultural (Vegueta)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/inauguracion-exposicion-asilo",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/inauguracion-exposicion-asilo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "hebras-hiladas-en-la-cueva-pintada-20261113-galdar",
+   "title": "Hebras hiladas en la Cueva Pintada",
+   "description": "Danza, acrobacia y música en el parque arqueológico.",
+   "category": "cultura",
+   "subcategory": "danza",
+   "tags": [
+    "baile",
+    "patrimonio",
+    "cultura"
+   ],
+   "starts_at": "2026-11-13T20:00:00+00:00",
+   "ends_at": "2026-11-13T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Cueva Pintada",
+   "municipality": "Gáldar",
+   "lat": 28.1446,
+   "lng": -15.6557,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "20-anos-de-abubukaka-2a-parte-20261113-las-palmas-de-gran-canaria",
+   "title": "20 años de Abubukaka (2ª parte)",
+   "description": "Segunda parte del aniversario: sketches e improvisación.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-13T20:00:00+00:00",
+   "ends_at": "2026-11-13T21:10:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Guiniguada",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1019,
+   "lng": -15.4153,
+   "price_min": 18,
+   "price_max": 18,
+   "url": "https://calendarioeventos.com/evento/teatro-20-anos-de-abubukaka-2-parte",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-20-anos-de-abubukaka-2-parte"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "filarmonica-chichon-dirige-shostakovich-y-mussorgski-20261113-las-palmas-de-gran-canaria",
+   "title": "Filarmónica: Chichon dirige Shostakovich y Mussorgski",
+   "description": "Orquesta Filarmónica de Gran Canaria con Karel Mark Chichon y Sergej Krylov.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-13T20:00:00+00:00",
+   "ends_at": "2026-11-13T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": 14,
+   "price_max": 14,
+   "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-chichon-dirige-shostakovich-y-mussorgski"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vino-musica-y-monologos-en-la-calle-real-20261113-santa-brigida",
+   "title": "Vino, música y monólogos en la Calle Real",
+   "description": "Noche de vino, humor y saxofón en la calle principal.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "conciertos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-13T20:30:00+00:00",
+   "ends_at": "2026-11-14T00:00:00+00:00",
+   "all_day": false,
+   "venue": "Calle Real de Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.504,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/gastronomia-vino-musica-y-monologos",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-vino-musica-y-monologos"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vii-encuentro-de-parrandas-del-sur-al-tablero-20261113-san-bartolome-de-tirajana",
+   "title": "VII Encuentro de Parrandas del Sur al Tablero",
+   "description": "Música popular canaria con parrandas invitadas.",
+   "category": "musica",
+   "subcategory": "folclore",
+   "tags": [
+    "folclore",
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T20:30:00+00:00",
+   "ends_at": "2026-11-13T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Plaza El Tablero",
+   "municipality": "San Bartolomé de Tirajana",
+   "lat": 27.77,
+   "lng": -15.6,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/concierto-vii-encuentro-de-parrandas-del-sur-al-tablero",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-vii-encuentro-de-parrandas-del-sur-al-tablero"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "cold-shot-blues-rock-band-20261113-las-palmas-de-gran-canaria",
+   "title": "Cold Shot Blues & Rock Band",
+   "description": "Blues y rock en directo.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T20:30:00+00:00",
+   "ends_at": "2026-11-13T23:00:00+00:00",
+   "all_day": false,
+   "venue": "Imaginario Drinks & Music",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 7,
+   "price_max": 7,
+   "url": "https://calendarioeventos.com/evento/concierto-cold-shot-blues-y-rock-band",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-cold-shot-blues-y-rock-band"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "fiestas-de-cruce-de-sardina-concierto-y-verbena-20261113-santa-lucia-de-tirajana",
+   "title": "Fiestas de Cruce de Sardina: concierto y verbena",
+   "description": "Concierto seguido de verbena con DJ.",
+   "category": "fiestas",
+   "subcategory": "fiesta",
+   "tags": [
+    "fiestas",
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T21:30:00+00:00",
+   "ends_at": "2026-11-14T03:00:00+00:00",
+   "all_day": false,
+   "venue": "Cruce de Sardina",
+   "municipality": "Santa Lucía de Tirajana",
+   "lat": 27.833,
+   "lng": -15.452,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/fiestas-cruce-de-sardina-13-noviembre",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/fiestas-cruce-de-sardina-13-noviembre"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vila-la-bandada-20261113-las-palmas-de-gran-canaria",
+   "title": "Vila & La Bandada",
+   "description": "Concierto en directo.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-13T22:00:00+00:00",
+   "ends_at": "2026-11-13T23:30:00+00:00",
+   "all_day": false,
+   "venue": "Sala Canarias en Vivo",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 11,
+   "price_max": 11,
+   "url": "https://calendarioeventos.com/evento/concierto-vila-y-la-bandada",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-vila-y-la-bandada"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercado-agricola-y-artesanal-de-san-mateo-20261114-vega-de-san-mateo",
+   "title": "Mercado Agrícola y Artesanal de San Mateo",
+   "description": "El mercado más grande de la isla: productos de la tierra, quesos y artesanía. Horario de invierno sin confirmar.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia",
+    "campo"
+   ],
+   "starts_at": "2026-11-14T08:00:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": true,
+   "venue": "Mercado de Vega de San Mateo",
+   "municipality": "Vega de San Mateo",
+   "lat": 28.011,
+   "lng": -15.533,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf",
+   "sources": [
+    {
+     "name": "Mercados Tradicionales Medianías",
+     "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf"
+    },
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/vega-de-san-mateo/mercado-de-san-mateo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercado-agricola-y-artesanal-de-san-mateo-20261115-vega-de-san-mateo",
+   "title": "Mercado Agrícola y Artesanal de San Mateo",
+   "description": "El mercado más grande de la isla: productos de la tierra, quesos y artesanía. Horario de invierno sin confirmar.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia",
+    "campo"
+   ],
+   "starts_at": "2026-11-15T08:00:00+00:00",
+   "ends_at": "2026-11-15T14:00:00+00:00",
+   "all_day": true,
+   "venue": "Mercado de Vega de San Mateo",
+   "municipality": "Vega de San Mateo",
+   "lat": 28.011,
+   "lng": -15.533,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf",
+   "sources": [
+    {
+     "name": "Mercados Tradicionales Medianías",
+     "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf"
+    },
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/vega-de-san-mateo/mercado-de-san-mateo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercado-agricola-de-santa-brigida-20261114-santa-brigida",
+   "title": "Mercado Agrícola de Santa Brígida",
+   "description": "Mercado agrícola y artesanal con productores locales y zona infantil.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-14T08:00:00+00:00",
+   "ends_at": "2026-11-14T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Mercado de Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.501,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf",
+   "sources": [
+    {
+     "name": "Mercados Tradicionales Medianías",
+     "url": "https://api.medianias.org/storage/37/xXDXfgPyu764AOik.pdf"
+    },
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/santa-brigida/mercadillo-santa-brigida"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercado-agricola-de-santa-brigida-20261115-santa-brigida",
+   "title": "Mercado Agrícola de Santa Brígida",
+   "description": "Mercado agrícola y artesanal con productores locales y zona infantil.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-15T08:00:00+00:00",
+   "ends_at": "2026-11-15T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Mercado de Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.501,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://mercadillos.org/es/santa-brigida/mercadillo-santa-brigida",
+   "sources": [
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/santa-brigida/mercadillo-santa-brigida"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercadillo-dominical-de-teror-20261115-teror",
+   "title": "Mercadillo dominical de Teror",
+   "description": "Más de cien puestos junto a la Basílica del Pino: chorizo de Teror, dulces y artesanía.",
+   "category": "mercadillos",
+   "subcategory": "artesania",
+   "tags": [
+    "mercadillos",
+    "gastronomia",
+    "patrimonio"
+   ],
+   "starts_at": "2026-11-15T09:00:00+00:00",
+   "ends_at": "2026-11-15T15:00:00+00:00",
+   "all_day": false,
+   "venue": "Plaza de Nuestra Señora del Pino",
+   "municipality": "Teror",
+   "lat": 28.06,
+   "lng": -15.5475,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://mercadillos.org/es/gran-canaria/domingo",
+   "sources": [
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/gran-canaria/domingo"
+    },
+    {
+     "name": "festivalesdeespana.com",
+     "url": "https://www.festivalesdeespana.com/festival/mercadillo-dominical-de-teror-teror"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercadillo-de-artesania-y-cultura-de-vegueta-20261115-las-palmas-de-gran-canaria",
+   "title": "Mercadillo de Artesanía y Cultura de Vegueta",
+   "description": "Artesanía canaria y productos locales en la Plaza del Pilar Nuevo.",
+   "category": "mercadillos",
+   "subcategory": "artesania",
+   "tags": [
+    "mercadillos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-15T08:00:00+00:00",
+   "ends_at": "2026-11-15T14:00:00+00:00",
+   "all_day": true,
+   "venue": "Plaza del Pilar Nuevo (Vegueta)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1008,
+   "lng": -15.4136,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://mercadillos.org/es/gran-canaria/domingo",
+   "sources": [
+    {
+     "name": "mercadillos.org",
+     "url": "https://mercadillos.org/es/gran-canaria/domingo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "lpa-fotosub-2026-fotografia-submarina-en-las-canteras-20261114-las-palmas-de-gran-canaria",
+   "title": "LPA Fotosub 2026: fotografía submarina en Las Canteras",
+   "description": "Fotografía submarina, buceo, snorkel y actividades familiares.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "playa",
+    "exposiciones",
+    "deportes"
+   ],
+   "starts_at": "2026-11-14T07:00:00+00:00",
+   "ends_at": "2026-11-14T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Playa de Las Canteras",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1415,
+   "lng": -15.4335,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/fotografia-lpa-fotosub-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/fotografia-lpa-fotosub-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "xiii-certamen-de-pintura-rapida-playa-de-mogan-20261114-mogan",
+   "title": "XIII Certamen de Pintura Rápida Playa de Mogán",
+   "description": "Pintores trabajando al aire libre, exposición y premios.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "playa",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T07:30:00+00:00",
+   "ends_at": "2026-11-14T16:00:00+00:00",
+   "all_day": false,
+   "venue": "Puerto de Mogán",
+   "municipality": "Mogán",
+   "lat": 27.817,
+   "lng": -15.763,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/pintura-xiii-certamen-de-pintura-rapida-playa-de-mogan",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/pintura-xiii-certamen-de-pintura-rapida-playa-de-mogan"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderismo-del-brezal-de-santa-cristina-a-guia-20261114-santa-maria-de-guia",
+   "title": "Senderismo: del Brezal de Santa Cristina a Guía",
+   "description": "Ruta de 8,5 km entre dos localidades del norte.",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo"
+   ],
+   "starts_at": "2026-11-14T08:00:00+00:00",
+   "ends_at": "2026-11-14T15:30:00+00:00",
+   "all_day": false,
+   "venue": "Santa María de Guía",
+   "municipality": "Santa María de Guía",
+   "lat": 28.1397,
+   "lng": -15.6327,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/senderismo-desde-el-brezal-de-santa-cristina-hasta-santa-maria-de-guia",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-desde-el-brezal-de-santa-cristina-hasta-santa-maria-de-guia"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "expodeca-2026-feria-del-deporte-20261114-las-palmas-de-gran-canaria",
+   "title": "ExpoDeca 2026: feria del deporte",
+   "description": "Feria de la actividad física y el deporte de Canarias (12–15 nov).",
+   "category": "deportes",
+   "subcategory": "otros",
+   "tags": [
+    "deportes"
+   ],
+   "starts_at": "2026-11-14T08:00:00+00:00",
+   "ends_at": "2026-11-14T23:30:00+00:00",
+   "all_day": false,
+   "venue": "Plaza de la Música",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1312,
+   "lng": -15.4459,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/feria-expodeca-2026-feria-de-la-actividad-fisica-y-el-deporte-de-canarias",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-expodeca-2026-feria-de-la-actividad-fisica-y-el-deporte-de-canarias"
+    }
+   ],
+   "conflicts": "La ficha indica Plaza de la Música y la descripción Plaza Jerónimo Saavedra."
+  },
+  {
+   "id": "feria-km-0-gran-canaria-en-tejeda-20261114-tejeda",
+   "title": "Feria Km.0 Gran Canaria en Tejeda",
+   "description": "42.ª feria de productos locales de kilómetro cero.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia",
+    "campo"
+   ],
+   "starts_at": "2026-11-14T09:00:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Tejeda",
+   "municipality": "Tejeda",
+   "lat": 27.9952,
+   "lng": -15.615,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderismo-de-cruz-de-tejeda-al-barranco-de-la-mina-20261114-tejeda",
+   "title": "Senderismo: de Cruz de Tejeda al Barranco de La Mina",
+   "description": "Ruta guiada por Bendaya Aventuras.",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo"
+   ],
+   "starts_at": "2026-11-14T09:00:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Tejeda",
+   "municipality": "Tejeda",
+   "lat": 27.9952,
+   "lng": -15.615,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://calendarioeventos.com/evento/senderismo-de-cruz-de-tejeda-al-corazon-del-barranco-de-la-mina",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-de-cruz-de-tejeda-al-corazon-del-barranco-de-la-mina"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderos-en-familia-la-montaneta-acequia-alta-20261114-arucas",
+   "title": "Senderos en Familia: La Montañeta – Acequia Alta",
+   "description": "Ruta circular familiar por La Montañeta, la Hacienda del Buen Suceso y la Acequia Alta.",
+   "category": "caminatas",
+   "subcategory": "ruta-libre",
+   "tags": [
+    "senderismo",
+    "campo",
+    "infantil"
+   ],
+   "starts_at": "2026-11-14T09:00:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Arucas",
+   "municipality": "Arucas",
+   "lat": 28.1195,
+   "lng": -15.523,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/senderismo-senderos-en-familia-la-montaneta-acequia-alta",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-senderos-en-familia-la-montaneta-acequia-alta"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "mercadillo-artesanal-y-agricola-de-firgas-20261114-firgas",
+   "title": "Mercadillo Artesanal y Agrícola de Firgas",
+   "description": "Artesanía y productos agrícolas con música en directo.",
+   "category": "mercadillos",
+   "subcategory": "artesania",
+   "tags": [
+    "mercadillos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-14T09:00:00+00:00",
+   "ends_at": "2026-11-14T14:30:00+00:00",
+   "all_day": false,
+   "venue": "Plaza de San Roque",
+   "municipality": "Firgas",
+   "lat": 28.1068,
+   "lng": -15.5626,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/market-mercadillo-artesanal-y-agricola-de-la-villa-de-firgas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/market-mercadillo-artesanal-y-agricola-de-la-villa-de-firgas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "arucas-es-arte-showroom-de-arte-y-diseno-20261114-arucas",
+   "title": "Arucas es arte: showroom de arte y diseño",
+   "description": "Mercado de arte y diseño local.",
+   "category": "mercadillos",
+   "subcategory": "artesania",
+   "tags": [
+    "exposiciones",
+    "mercadillos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T10:00:00+00:00",
+   "ends_at": "2026-11-14T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Casa Quintanilla",
+   "municipality": "Arucas",
+   "lat": 28.1196,
+   "lng": -15.5233,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/market-arucas-es-arte",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/market-arucas-es-arte"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "xxviii-jornadas-de-tradiciones-de-mogan-20261114-mogan",
+   "title": "XXVIII Jornadas de Tradiciones de Mogán",
+   "description": "Cultura de la sal: música, baile, conferencia y visita a Tenefé.",
+   "category": "fiestas",
+   "subcategory": "fiesta",
+   "tags": [
+    "folclore",
+    "patrimonio",
+    "fiestas"
+   ],
+   "starts_at": "2026-11-14T10:00:00+00:00",
+   "ends_at": "2026-11-14T16:00:00+00:00",
+   "all_day": false,
+   "venue": "Puerto de Mogán",
+   "municipality": "Mogán",
+   "lat": 27.817,
+   "lng": -15.763,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/xxviii-jornadas-de-tradiciones-de-mogan",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/xxviii-jornadas-de-tradiciones-de-mogan"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "visita-guiada-la-fortaleza-un-patrimonio-vivo-20261114-santa-lucia-de-tirajana",
+   "title": "Visita guiada: La Fortaleza, un patrimonio vivo",
+   "description": "Visita al yacimiento arqueológico y su conservación.",
+   "category": "caminatas",
+   "subcategory": "patrimonio",
+   "tags": [
+    "patrimonio",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T10:30:00+00:00",
+   "ends_at": "2026-11-14T12:00:00+00:00",
+   "all_day": false,
+   "venue": "La Fortaleza",
+   "municipality": "Santa Lucía de Tirajana",
+   "lat": 27.847,
+   "lng": -15.443,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/visita-guiada-la-fortaleza-un-patrimonio-vivo",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/visita-guiada-la-fortaleza-un-patrimonio-vivo"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "memoria-de-barranco-oficios-tradicion-y-cultura-viva-20261114-artenara",
+   "title": "Memoria de Barranco: oficios, tradición y cultura viva",
+   "description": "Artesanía, talleres, música, bailes y tradición oral.",
+   "category": "fiestas",
+   "subcategory": "fiesta",
+   "tags": [
+    "folclore",
+    "patrimonio",
+    "mercadillos"
+   ],
+   "starts_at": "2026-11-14T11:00:00+00:00",
+   "ends_at": "2026-11-14T16:00:00+00:00",
+   "all_day": false,
+   "venue": "Artenara",
+   "municipality": "Artenara",
+   "lat": 28.0204,
+   "lng": -15.6467,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/feria-memoria-de-barranco-oficios-tradicion-y-cultura-viva",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-memoria-de-barranco-oficios-tradicion-y-cultura-viva"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "visita-a-bodega-con-cata-en-santa-brigida-20261114-santa-brigida",
+   "title": "Visita a bodega con cata en Santa Brígida",
+   "description": "Visita guiada a una bodega con cata de vinos.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "campo",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-14T11:30:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.504,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/visita-guiada-visita-a-bodega",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/visita-guiada-visita-a-bodega"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "flow-glow-picnic-10a-edicion-20261114-santa-maria-de-guia",
+   "title": "Flow & Glow Picnic (10ª edición)",
+   "description": "Jornada de picnic y actividades al aire libre en una finca.",
+   "category": "airelibre",
+   "subcategory": "campo",
+   "tags": [
+    "campo",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-14T11:30:00+00:00",
+   "ends_at": "2026-11-14T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Finca La Fuente",
+   "municipality": "Santa María de Guía",
+   "lat": 28.1397,
+   "lng": -15.6327,
+   "price_min": 50,
+   "price_max": 50,
+   "url": "https://calendarioeventos.com/evento/flow-y-glow-picnic-10-edicion-un-sabado-para-ti-en-gran-canaria-mvp7i7kw",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/flow-y-glow-picnic-10-edicion-un-sabado-para-ti-en-gran-canaria-mvp7i7kw"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "iniciacion-a-la-cata-de-vinos-20261114-las-palmas-de-gran-canaria",
+   "title": "Iniciación a la cata de vinos",
+   "description": "Teoría y práctica con 12 vinos.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "gastronomia",
+    "talleres"
+   ],
+   "starts_at": "2026-11-14T12:00:00+00:00",
+   "ends_at": "2026-11-14T15:00:00+00:00",
+   "all_day": false,
+   "venue": "Vinófilos Triana",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 45,
+   "price_max": 45,
+   "url": "https://calendarioeventos.com/evento/taller-iniciacion-a-la-cata-de-vinos",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/taller-iniciacion-a-la-cata-de-vinos"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "el-cuchillo-canario-a-traves-de-la-historia-20261114-las-palmas-de-gran-canaria",
+   "title": "El cuchillo canario a través de la historia",
+   "description": "Demostraciones artesanales en vivo.",
+   "category": "cultura",
+   "subcategory": "museos",
+   "tags": [
+    "museos",
+    "patrimonio",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T12:00:00+00:00",
+   "ends_at": "2026-11-14T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Museo Elder",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1397,
+   "lng": -15.431,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/actividades-el-cuchillo-canario-a-traves-de-la-historia-actividades-paralelas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/actividades-el-cuchillo-canario-a-traves-de-la-historia-actividades-paralelas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "ruta-astronomica-degollada-del-salao-garanon-20261114-tejeda",
+   "title": "Ruta astronómica: Degollada del Salao – Garañón",
+   "description": "Ruta nocturna con observación de estrellas (salida desde la Fuente Luminosa).",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo"
+   ],
+   "starts_at": "2026-11-14T17:00:00+00:00",
+   "ends_at": "2026-11-14T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Degollada del Salao – Garañón",
+   "municipality": "Tejeda",
+   "lat": 27.9951,
+   "lng": -15.6146,
+   "price_min": 20,
+   "price_max": 20,
+   "url": "https://calendarioeventos.com/evento/senderismo-ruta-astronomica-degollada-del-salao-garanon",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-ruta-astronomica-degollada-del-salao-garanon"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "love-the-90-s-canarias-20261114-las-palmas-de-gran-canaria",
+   "title": "Love the 90's Canarias",
+   "description": "Eurodance, techno y pop de los 90.",
+   "category": "musica",
+   "subcategory": "electronica",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T18:00:00+00:00",
+   "ends_at": "2026-11-15T00:00:00+00:00",
+   "all_day": false,
+   "venue": "Anexo Estadio de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1,
+   "lng": -15.4566,
+   "price_min": 43,
+   "price_max": 43,
+   "url": "https://calendarioeventos.com/evento/concierto-love-the-90-s-canarias",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-love-the-90-s-canarias"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "festival-iii-mar-mujeres-africanas-rodando-20261114-aguimes",
+   "title": "Festival III MAR – Mujeres Africanas Rodando",
+   "description": "Última jornada: cine, coloquio y música.",
+   "category": "cultura",
+   "subcategory": "cine",
+   "tags": [
+    "cine",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T18:00:00+00:00",
+   "ends_at": "2026-11-14T22:30:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Auditorio de Agüimes",
+   "municipality": "Agüimes",
+   "lat": 27.9054,
+   "lng": -15.4461,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/festival-iii-mar-mujeres-africanas-rodando-12-14-nov-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/festival-iii-mar-mujeres-africanas-rodando-12-14-nov-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "xxi-grunge-is-not-dead-20261114-las-palmas-de-gran-canaria",
+   "title": "XXI Grunge Is Not Dead",
+   "description": "Festival de grunge.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T18:30:00+00:00",
+   "ends_at": "2026-11-14T23:00:00+00:00",
+   "all_day": false,
+   "venue": "Sala Alboroto",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 22,
+   "price_max": 22,
+   "url": "https://calendarioeventos.com/evento/festival-xxi-grunge-is-not-dead",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/festival-xxi-grunge-is-not-dead"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "musica-viva-om-dominguez-y-the-freedom-way-20261114-las-palmas-de-gran-canaria",
+   "title": "Música Viva: OM Domínguez y The Freedom Way",
+   "description": "Concierto al aire libre junto a la playa.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos",
+    "playa"
+   ],
+   "starts_at": "2026-11-14T19:00:00+00:00",
+   "ends_at": "2026-11-14T22:30:00+00:00",
+   "all_day": false,
+   "venue": "La Cícer (Las Canteras)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.13,
+   "lng": -15.448,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/concierto-musica-viva-om-dominguez-y-the-freedom-way",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-musica-viva-om-dominguez-y-the-freedom-way"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "kawara-brazilian-project-20261114-las-palmas-de-gran-canaria",
+   "title": "Kawara Brazilian Project",
+   "description": "Música brasileña acústica, con cena opcional.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-14T19:00:00+00:00",
+   "ends_at": "2026-11-14T20:30:00+00:00",
+   "all_day": false,
+   "venue": "CANES del Círculo",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://calendarioeventos.com/evento/concierto-kawara-brazilian-project-musica-sabores-y-cultura",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-kawara-brazilian-project-musica-sabores-y-cultura"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-de-calle-atartufados-20261114-santa-brigida",
+   "title": "Teatro de calle: «Atartufados»",
+   "description": "Teatro de calle por los barrios.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro",
+    "fiestas"
+   ],
+   "starts_at": "2026-11-14T19:00:00+00:00",
+   "ends_at": "2026-11-14T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.504,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/teatro-atartufados-teatro-de-calle-en-los-barrios",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-atartufados-teatro-de-calle-en-los-barrios"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "flamenc-oh-de-yllana-20261114-las-palmas-de-gran-canaria",
+   "title": "FLAMENC OH! de Yllana",
+   "description": "Teatro gestual con flamenco.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro",
+    "baile"
+   ],
+   "starts_at": "2026-11-14T19:30:00+00:00",
+   "ends_at": "2026-11-14T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 23,
+   "price_max": 23,
+   "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "pleito-alba-gil-aceytuno-saxo-20261114-las-palmas-de-gran-canaria",
+   "title": "Pleito: Alba Gil Aceytuno (saxo)",
+   "description": "Concierto de la saxofonista Alba Gil Aceytuno.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T19:30:00+00:00",
+   "ends_at": "2026-11-14T20:45:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": 14,
+   "price_max": 14,
+   "url": "https://calendarioeventos.com/evento/concierto-pleito",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-pleito"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vinos-en-relatos-20261114-las-palmas-de-gran-canaria",
+   "title": "Vinos en relatos",
+   "description": "Cata de vinos acompañada de relatos.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "literatura"
+   ],
+   "starts_at": "2026-11-14T19:30:00+00:00",
+   "ends_at": "2026-11-14T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Mercado de Vegueta",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1027,
+   "lng": -15.4155,
+   "price_min": 37,
+   "price_max": 37,
+   "url": "https://calendarioeventos.com/evento/gastronomia-vinos-en-relatos",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-vinos-en-relatos"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "forja-espiral-y-viento-arte-y-moda-en-el-castillo-de-la-luz-20261114-las-palmas-de-gran-canaria",
+   "title": "Forja, Espiral y Viento: arte y moda en el Castillo de la Luz",
+   "description": "Desfile de arte y moda inspirado en Martín Chirino.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T19:30:00+00:00",
+   "ends_at": "2026-11-14T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Castillo de la Luz",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1458,
+   "lng": -15.4231,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/desfile-forja-espiral-y-viento-arte-y-moda-en-movimiento",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/desfile-forja-espiral-y-viento-arte-y-moda-en-movimiento"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "sempiterno-augusto-baez-al-piano-20261114-las-palmas-de-gran-canaria",
+   "title": "Sempiterno: Augusto Báez al piano",
+   "description": "Concierto íntimo de piano.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T20:00:00+00:00",
+   "ends_at": "2026-11-14T21:20:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Guiniguada",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1019,
+   "lng": -15.4153,
+   "price_min": 15,
+   "price_max": 15,
+   "url": "https://calendarioeventos.com/evento/concierto-sempiterno",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-sempiterno"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "techno-pop-tributo-a-los-80-y-90-20261114-las-palmas-de-gran-canaria",
+   "title": "Techno Pop: tributo a los 80 y 90",
+   "description": "Clásicos del techno pop de los 80 y 90.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T20:00:00+00:00",
+   "ends_at": "2026-11-14T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": 46,
+   "price_max": 46,
+   "url": "https://calendarioeventos.com/evento/concierto-techno-pop",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-techno-pop"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "hebras-hiladas-en-la-cueva-pintada-20261114-galdar",
+   "title": "Hebras hiladas en la Cueva Pintada",
+   "description": "Danza, acrobacia y música en el parque arqueológico.",
+   "category": "cultura",
+   "subcategory": "danza",
+   "tags": [
+    "baile",
+    "patrimonio",
+    "cultura"
+   ],
+   "starts_at": "2026-11-14T20:00:00+00:00",
+   "ends_at": "2026-11-14T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Cueva Pintada",
+   "municipality": "Gáldar",
+   "lat": 28.1446,
+   "lng": -15.6557,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "vii-organos-historicos-de-gran-canaria-20261114-las-palmas-de-gran-canaria",
+   "title": "VII Órganos Históricos de Gran Canaria",
+   "description": "Concierto de órgano histórico (ciclo del 7 al 29 de noviembre).",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "patrimonio"
+   ],
+   "starts_at": "2026-11-14T20:00:00+00:00",
+   "ends_at": "2026-11-14T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Parroquia de Santo Domingo de Guzmán",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/festival-vii-organos-historicos-de-gran-canaria",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/festival-vii-organos-historicos-de-gran-canaria"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "humor-todo-pa-ultima-hora-jorge-avila-20261114-galdar",
+   "title": "Humor: «Todo pa' última hora» (Jorge Ávila)",
+   "description": "Monólogo de humor.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-14T20:00:00+00:00",
+   "ends_at": "2026-11-14T21:30:00+00:00",
+   "all_day": false,
+   "venue": "Centro Cultural Guaires",
+   "municipality": "Gáldar",
+   "lat": 28.145,
+   "lng": -15.6503,
+   "price_min": 20,
+   "price_max": 20,
+   "url": "https://calendarioeventos.com/evento/humor-todo-pa-ultima-hora",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/humor-todo-pa-ultima-hora"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "creedence-clearwater-revival-all-star-band-20261114-telde",
+   "title": "Creedence Clearwater Revival All Star Band",
+   "description": "Tributo a Creedence Clearwater Revival.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T20:30:00+00:00",
+   "ends_at": "2026-11-14T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Municipal Juan Ramón Jiménez",
+   "municipality": "Telde",
+   "lat": 27.9924,
+   "lng": -15.4192,
+   "price_min": 26,
+   "price_max": 26,
+   "url": "https://calendarioeventos.com/evento/concierto-creedence-clearwater-revival-all-star-band",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-creedence-clearwater-revival-all-star-band"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "humor-animal-de-compania-jorge-bolanos-20261114-teror",
+   "title": "Humor: «Animal de compañía» (Jorge Bolaños)",
+   "description": "Espectáculo de humor.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-14T20:30:00+00:00",
+   "ends_at": "2026-11-14T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio de Teror",
+   "municipality": "Teror",
+   "lat": 28.0602,
+   "lng": -15.5477,
+   "price_min": 17,
+   "price_max": 17,
+   "url": "https://calendarioeventos.com/evento/humor-animal-de-compania",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/humor-animal-de-compania"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "el-loco-de-la-kalima-tributo-a-the-beatles-20261114-las-palmas-de-gran-canaria",
+   "title": "El Loco de la Kalima: tributo a The Beatles",
+   "description": "Beatles y rock-pop de los 60 y 70.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T21:00:00+00:00",
+   "ends_at": "2026-11-14T22:30:00+00:00",
+   "all_day": false,
+   "venue": "Buenos Aires Jazz Café (Vegueta)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1012,
+   "lng": -15.4143,
+   "price_min": 6,
+   "price_max": 6,
+   "url": "https://calendarioeventos.com/evento/concierto-el-loco-de-la-kalima",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-el-loco-de-la-kalima"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "feria-km-0-gran-canaria-en-tejeda-20261115-tejeda",
+   "title": "Feria Km.0 Gran Canaria en Tejeda",
+   "description": "42.ª feria de productos locales de kilómetro cero.",
+   "category": "mercadillos",
+   "subcategory": "agricola",
+   "tags": [
+    "mercadillos",
+    "gastronomia",
+    "campo"
+   ],
+   "starts_at": "2026-11-15T09:00:00+00:00",
+   "ends_at": "2026-11-15T14:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Tejeda",
+   "municipality": "Tejeda",
+   "lat": 27.9952,
+   "lng": -15.615,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-feria-km-0-gran-canaria-tejeda"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "senderismo-sonidos-del-sendero-20261115-tejeda",
+   "title": "Senderismo: Sonidos del sendero",
+   "description": "Ruta por la zona de Cruz de Tejeda.",
+   "category": "caminatas",
+   "subcategory": "ruta-guiada",
+   "tags": [
+    "senderismo",
+    "campo"
+   ],
+   "starts_at": "2026-11-15T09:00:00+00:00",
+   "ends_at": "2026-11-15T13:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Tejeda",
+   "municipality": "Tejeda",
+   "lat": 27.9952,
+   "lng": -15.615,
+   "price_min": 31,
+   "price_max": 31,
+   "url": "https://calendarioeventos.com/evento/senderismo-sonidos-del-sendero",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/senderismo-sonidos-del-sendero"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "fiestas-de-cruce-de-sardina-coches-clasicos-y-gala-drag-20261115-santa-lucia-de-tirajana",
+   "title": "Fiestas de Cruce de Sardina: coches clásicos y gala drag",
+   "description": "Cierre de fiestas con exposición de coches clásicos y gala drag.",
+   "category": "fiestas",
+   "subcategory": "fiesta",
+   "tags": [
+    "fiestas"
+   ],
+   "starts_at": "2026-11-15T09:30:00+00:00",
+   "ends_at": "2026-11-15T22:30:00+00:00",
+   "all_day": false,
+   "venue": "Cruce de Sardina",
+   "municipality": "Santa Lucía de Tirajana",
+   "lat": 27.833,
+   "lng": -15.452,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/fiestas-cruce-de-sardina-15-noviembre",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/fiestas-cruce-de-sardina-15-noviembre"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "rutas-teatralizadas-por-el-casco-de-santa-lucia-20261115-santa-lucia-de-tirajana",
+   "title": "Rutas teatralizadas por el casco de Santa Lucía",
+   "description": "Recorrido teatralizado por el casco histórico.",
+   "category": "caminatas",
+   "subcategory": "patrimonio",
+   "tags": [
+    "patrimonio",
+    "teatro",
+    "cultura"
+   ],
+   "starts_at": "2026-11-15T10:00:00+00:00",
+   "ends_at": "2026-11-15T12:00:00+00:00",
+   "all_day": false,
+   "venue": "Casco de Santa Lucía",
+   "municipality": "Santa Lucía de Tirajana",
+   "lat": 27.847,
+   "lng": -15.443,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/visita-guiada-rutas-teatralizadas",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/visita-guiada-rutas-teatralizadas"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "arucas-es-arte-showroom-de-arte-y-diseno-20261115-arucas",
+   "title": "Arucas es arte: showroom de arte y diseño",
+   "description": "Mercado de arte y diseño local.",
+   "category": "mercadillos",
+   "subcategory": "artesania",
+   "tags": [
+    "exposiciones",
+    "mercadillos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-15T10:00:00+00:00",
+   "ends_at": "2026-11-15T14:30:00+00:00",
+   "all_day": false,
+   "venue": "Casa Quintanilla",
+   "municipality": "Arucas",
+   "lat": 28.1196,
+   "lng": -15.5233,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/market-arucas-es-arte",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/market-arucas-es-arte"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "expodeca-2026-feria-del-deporte-20261115-las-palmas-de-gran-canaria",
+   "title": "ExpoDeca 2026: feria del deporte",
+   "description": "Última jornada de la feria del deporte de Canarias.",
+   "category": "deportes",
+   "subcategory": "otros",
+   "tags": [
+    "deportes"
+   ],
+   "starts_at": "2026-11-15T10:00:00+00:00",
+   "ends_at": "2026-11-15T16:00:00+00:00",
+   "all_day": false,
+   "venue": "Plaza de la Música",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1312,
+   "lng": -15.4459,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/feria-expodeca-2026-feria-de-la-actividad-fisica-y-el-deporte-de-canarias",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-expodeca-2026-feria-de-la-actividad-fisica-y-el-deporte-de-canarias"
+    }
+   ],
+   "conflicts": "La ficha indica Plaza de la Música y la descripción Plaza Jerónimo Saavedra."
+  },
+  {
+   "id": "canarias-gameshow-arucas-2026-20261115-arucas",
+   "title": "Canarias Gameshow Arucas 2026",
+   "description": "Feria de videojuegos, competiciones y juegos de mesa.",
+   "category": "popfriki",
+   "subcategory": "videojuegos",
+   "tags": [
+    "videojuegos",
+    "anime"
+   ],
+   "starts_at": "2026-11-15T10:00:00+00:00",
+   "ends_at": "2026-11-15T18:00:00+00:00",
+   "all_day": false,
+   "venue": "Pabellón Olímpico José Juan Navarro Batista",
+   "municipality": "Arucas",
+   "lat": 28.1196,
+   "lng": -15.5233,
+   "price_min": null,
+   "price_max": null,
+   "url": "https://calendarioeventos.com/evento/feria-canarias-gameshow-arucas-2026",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/feria-canarias-gameshow-arucas-2026"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "maridaje-de-vinos-y-quesos-en-el-mercadillo-20261115-santa-brigida",
+   "title": "Maridaje de vinos y quesos en el mercadillo",
+   "description": "Cata de vinos de la villa con quesos de Gran Canaria.",
+   "category": "gastronomia",
+   "subcategory": "vinos",
+   "tags": [
+    "vinos",
+    "gastronomia"
+   ],
+   "starts_at": "2026-11-15T12:00:00+00:00",
+   "ends_at": "2026-11-15T13:30:00+00:00",
+   "all_day": false,
+   "venue": "Mercado de Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.501,
+   "price_min": 5,
+   "price_max": 5,
+   "url": "https://calendarioeventos.com/evento/gastronomia-maridaje-vinos-y-quesos",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/gastronomia-maridaje-vinos-y-quesos"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "guitarra-y-cuarteto-de-cuerdas-oslp-20261115-santa-brigida",
+   "title": "Guitarra y cuarteto de cuerdas OSLP",
+   "description": "Concierto de música de cámara.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-15T12:00:00+00:00",
+   "ends_at": "2026-11-15T13:30:00+00:00",
+   "all_day": false,
+   "venue": "Ayuntamiento de Santa Brígida",
+   "municipality": "Santa Brígida",
+   "lat": 28.032,
+   "lng": -15.504,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/concierto-guitarra-y-cuarteto-de-cuerdas-oslp-santa-brigida",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-guitarra-y-cuarteto-de-cuerdas-oslp-santa-brigida"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "taller-de-toque-baile-y-melodias-con-anibal-llarena-20261115-las-palmas-de-gran-canaria",
+   "title": "Taller de toque, baile y melodías con Aníbal Llarena",
+   "description": "Taller familiar de música y baile tradicional.",
+   "category": "charlas",
+   "subcategory": "taller",
+   "tags": [
+    "folclore",
+    "baile",
+    "museos",
+    "infantil"
+   ],
+   "starts_at": "2026-11-15T12:00:00+00:00",
+   "ends_at": "2026-11-15T13:30:00+00:00",
+   "all_day": false,
+   "venue": "Museo Canario",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1003,
+   "lng": -15.4171,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/infantil-taller-de-toque-baile-y-melodias-con-anibal-llarena",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/infantil-taller-de-toque-baile-y-melodias-con-anibal-llarena"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "golden-groove-entre-vinedos-vol-4-20261115-santa-brigida",
+   "title": "Golden Groove Entre Viñedos · Vol. 4",
+   "description": "Fiesta de cierre de temporada entre viñedos.",
+   "category": "musica",
+   "subcategory": "electronica",
+   "tags": [
+    "vinos",
+    "conciertos",
+    "campo"
+   ],
+   "starts_at": "2026-11-15T16:00:00+00:00",
+   "ends_at": "2026-11-15T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Bodega Los Lirios (Monte Lentiscal)",
+   "municipality": "Santa Brígida",
+   "lat": 28.045,
+   "lng": -15.465,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://calendarioeventos.com/evento/cultura-golden-groove-entre-vinedos-vol-4",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/cultura-golden-groove-entre-vinedos-vol-4"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "erase-una-vez-la-tele-orquesta-comunitaria-20261115-las-palmas-de-gran-canaria",
+   "title": "Érase una vez… la tele (Orquesta Comunitaria)",
+   "description": "Concierto de sintonías de televisión.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-15T18:00:00+00:00",
+   "ends_at": "2026-11-15T19:30:00+00:00",
+   "all_day": false,
+   "venue": "Auditorio Alfredo Kraus",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1302,
+   "lng": -15.4467,
+   "price_min": 16,
+   "price_max": 16,
+   "url": "https://calendarioeventos.com/evento/concierto-erase-una-vez-la-tele",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-erase-una-vez-la-tele"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "ruta-teatralizada-de-pino-ojeda-20261115-las-palmas-de-gran-canaria",
+   "title": "Ruta teatralizada de Pino Ojeda",
+   "description": "Ruta teatralizada sobre la vida y obra de la poeta Pino Ojeda.",
+   "category": "caminatas",
+   "subcategory": "patrimonio",
+   "tags": [
+    "patrimonio",
+    "teatro",
+    "literatura"
+   ],
+   "starts_at": "2026-11-15T18:00:00+00:00",
+   "ends_at": "2026-11-15T19:30:00+00:00",
+   "all_day": false,
+   "venue": "Calle Luis Morote",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/teatro-ruta-teatralizada-de-pino-ojeda",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/teatro-ruta-teatralizada-de-pino-ojeda"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "xx-aniversario-del-coro-de-camara-ainur-20261115-las-palmas-de-gran-canaria",
+   "title": "XX aniversario del Coro de Cámara Ainur",
+   "description": "Concierto especial de aniversario.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-15T19:00:00+00:00",
+   "ends_at": "2026-11-15T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Capilla Anglicana (Holy Trinity Church)",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1235,
+   "lng": -15.4363,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://calendarioeventos.com/evento/concierto-concierto-especial-xx-aniversario-coro-de-camara-ainur",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-concierto-especial-xx-aniversario-coro-de-camara-ainur"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "fede-cyrulnik-stand-up-20261115-arucas",
+   "title": "Fede Cyrulnik: stand-up",
+   "description": "Espectáculo de humor.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-15T20:30:00+00:00",
+   "ends_at": "2026-11-15T22:00:00+00:00",
+   "all_day": false,
+   "venue": "Nuevo Teatro Viejo",
+   "municipality": "Arucas",
+   "lat": 28.1196,
+   "lng": -15.5233,
+   "price_min": 25,
+   "price_max": 25,
+   "url": "https://calendarioeventos.com/evento/humor-fede-cyrulnik",
+   "sources": [
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/humor-fede-cyrulnik"
+    }
+   ],
+   "conflicts": "La ficha no indica municipio; la descripción lo sitúa en Arucas."
+  }
+ ]
+}

@@ -3,7 +3,11 @@
 El recolector las recorre todas y contrasta los datos entre ellas. En la primera ejecución apunta aquí la URL exacta de cada una que funcione (`→ URL:`). Lo que no se ha confirmado todavía va marcado como *(confirmar)*.
 
 ## Agregadores
-- **calendarioeventos**: la referencia principal. → URL: *(confirmar en la primera ejecución)*
+- **calendarioeventos**: la referencia principal. ✅ Confirmado el 9-nov-2026.
+  - Listado por día: `https://calendarioeventos.com/eventos?layout=lista&period=d%C3%ADa&date=AAAA-MM-DD`
+  - Muestra 20 eventos por página: añade `&offset=20`, `&offset=40`… hasta cubrir el total ("1-20 de N").
+  - Un sábado típico tiene más de 100 eventos. Prioriza la tarde/noche y descarta los de colegios, solo mayores, formación profesional y competiciones con inscripción.
+  - Ficha de cada evento: `https://calendarioeventos.com/evento/<slug>`
 - Agendas generales de ocio de Gran Canaria y Canarias (prensa local, guías de ocio). → URLs: *(confirmar)*
 
 ## Instituciones
@@ -25,9 +29,11 @@ El recolector las recorre todas y contrasta los datos entre ellas. En la primera
 - Clubes de senderismo de la isla con salidas abiertas *(confirmar cuáles publican calendario)*
 
 ## Mercadillos fijos (base semanal: comprobar cada vez si hay cambios o cancelaciones)
-- Mercado agrícola de Vega de San Mateo: sábados y domingos *(confirmar horario)*
-- Mercadillo de Teror: domingos *(confirmar horario)*
-- Mercado de Santa Brígida: fin de semana *(confirmar horario)*
+- Mercado agrícola de Vega de San Mateo: viernes a domingo (en verano: sábado 08–19 y domingo 08–14:30; *horario de invierno por confirmar*)
+- Mercadillo de Teror: domingos 09:00–15:00 (mercadillos.org)
+- Mercado de Santa Brígida: viernes 14–20, sábado 08–20 y domingo 08–14
+- Mercadillo de Vegueta (Plaza del Pilar Nuevo): domingos *(confirmar horario)*
+- Fuentes: mercadillos.org (`/es/gran-canaria/domingo`, `/es/gran-canaria/fin-de-semana`) y la guía "Mercados Tradicionales Medianías"
 - Otros mercadillos municipales: Arucas, Vegueta, San Fernando de Maspalomas… *(confirmar días y horarios)*
 
 ## Anime y cultura pop

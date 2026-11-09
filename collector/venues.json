@@ -118,5 +118,90 @@
   "municipality": "Valsequillo",
   "lat": 27.986,
   "lng": -15.498
+ },
+ "Teatro Guiniguada": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1019,
+  "lng": -15.4153
+ },
+ "Plaza de la Música": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1312,
+  "lng": -15.4459
+ },
+ "Anexo Estadio de Gran Canaria": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1,
+  "lng": -15.4566
+ },
+ "Mercado de Vegueta": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1027,
+  "lng": -15.4155
+ },
+ "Castillo de la Luz": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1458,
+  "lng": -15.4231
+ },
+ "Gabinete Literario": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1029,
+  "lng": -15.4148
+ },
+ "Mercado del Puerto": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1406,
+  "lng": -15.4313
+ },
+ "Museo Elder": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1397,
+  "lng": -15.431
+ },
+ "Buenos Aires Jazz Café (Vegueta)": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1012,
+  "lng": -15.4143
+ },
+ "Campus del Obelisco (ULPGC)": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.0985,
+  "lng": -15.4198
+ },
+ "La Cícer (Las Canteras)": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.13,
+  "lng": -15.448
+ },
+ "Holiday World": {
+  "municipality": "San Bartolomé de Tirajana",
+  "lat": 27.7639,
+  "lng": -15.5838
+ },
+ "Plaza El Tablero": {
+  "municipality": "San Bartolomé de Tirajana",
+  "lat": 27.77,
+  "lng": -15.6
+ },
+ "Cruce de Sardina": {
+  "municipality": "Santa Lucía de Tirajana",
+  "lat": 27.833,
+  "lng": -15.452
+ },
+ "Bodega Los Lirios (Monte Lentiscal)": {
+  "municipality": "Santa Brígida",
+  "lat": 28.045,
+  "lng": -15.465
+ },
+ "Plaza de Nuestra Señora del Pino": {
+  "municipality": "Teror",
+  "lat": 28.06,
+  "lng": -15.5475
+ },
+ "Plaza del Pilar Nuevo (Vegueta)": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1008,
+  "lng": -15.4136
  }
 }
