@@ -80,7 +80,7 @@ export default function App() {
 
   const nFilters = activeFilterCount(filters);
   const winLabel = tab === 'match' ? 'Planes que os gustan a los dos'
-    : `${dayLabel(win.start)} ${tab === 'finde' ? '14:00' : ''} → ${dayLabel(win.end)} ${tab === 'finde' ? '23:59' : '14:00'}`;
+    : `${dayLabel(win.start)} → ${dayLabel(win.end)}`;
 
   return (
     <div className="app">

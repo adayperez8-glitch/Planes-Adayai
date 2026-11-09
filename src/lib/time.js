@@ -1,10 +1,10 @@
-// Ventanas de tiempo: "Este finde" (viernes 14:00 → domingo 23:59) y "Entre semana".
+// Ventanas de tiempo: "Este finde" (viernes → domingo) y "Entre semana" (lunes → jueves).
 
 const DAY = 86400000;
 
 export function startOfDay(d) { const x = new Date(d); x.setHours(0, 0, 0, 0); return x; }
 
-/** Viernes 14:00 → domingo 23:59 del finde en curso o del próximo. */
+/** Viernes 00:00 → domingo 23:59 del finde en curso o del próximo. */
 export function weekendWindow(now = new Date()) {
   const dow = now.getDay(); // 0 dom … 6 sáb
   const today = startOfDay(now);
@@ -13,7 +13,7 @@ export function weekendWindow(now = new Date()) {
   else if (dow === 6) friday = new Date(today.getTime() - DAY);
   else if (dow === 0) friday = new Date(today.getTime() - 2 * DAY);
   else friday = new Date(today.getTime() + (5 - dow) * DAY);
-  const start = new Date(friday); start.setHours(14, 0, 0, 0);
+  const start = new Date(friday); start.setHours(0, 0, 0, 0);
   const end = new Date(friday.getTime() + 2 * DAY); end.setHours(23, 59, 59, 999);
   return { start, end };
 }

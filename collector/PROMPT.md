@@ -13,7 +13,7 @@ Eres el recolector de eventos de **Planes Adayai**, una app privada con planes d
 
 ## 1. Ventana de fechas (hora de Canarias, Atlantic/Canary)
 - **Si hoy es lunes:** desde hoy 00:00 hasta el **jueves 23:59** (entre semana es de lunes a jueves; el viernes es finde).
-- **Si hoy es jueves:** desde el **viernes 14:00** hasta el **domingo 23:59**.
+- **Si hoy es jueves:** desde el **viernes 00:00** hasta el **domingo 23:59**.
 - Otro día (ejecución manual): usa la ventana del finde más próximo.
 
 ## 2. Buscar eventos
