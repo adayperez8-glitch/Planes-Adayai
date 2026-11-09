@@ -3,8 +3,8 @@
 -- Pégalo entero en Supabase → SQL Editor → Run. Se puede re-ejecutar.
 -- =====================================================================
 
-create extension if not exists pg_cron;
-create extension if not exists pg_net;
+create extension if not exists pg_cron with schema pg_catalog;
+create extension if not exists pg_net with schema extensions;
 
 -- ---------------------------------------------------------------------
 -- Perfiles y pareja
