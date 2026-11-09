@@ -290,29 +290,55 @@ export function ProfilePanel({ open, onClose, me, mode, onSaveLikes, onSwitchUse
 }
 
 /* ------------------------- Acceso ------------------------- */
-export function AuthScreen({ onSignIn, onSignUp }) {
-  const [mode, setMode] = useState('in');
+export function AuthScreen({ onSignIn, onSignUp, onReset }) {
+  const [mode, setMode] = useState('in'); // in | up | reset
   const [email, setEmail] = useState(''); const [pw, setPw] = useState(''); const [name, setName] = useState('');
-  const [err, setErr] = useState(''); const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState(''); const [ok, setOk] = useState(''); const [busy, setBusy] = useState(false);
   const submit = async (e) => {
-    e.preventDefault(); setBusy(true); setErr('');
-    const r = mode === 'in' ? await onSignIn(email, pw) : await onSignUp(email, pw, name);
+    e.preventDefault(); setBusy(true); setErr(''); setOk('');
+    const r = mode === 'in' ? await onSignIn(email, pw) : mode === 'up' ? await onSignUp(email, pw, name) : await onReset(email);
     if (r?.error) setErr(r.error.message);
+    else if (mode === 'reset') setOk('Te hemos enviado un email con un enlace. Ábrelo en este mismo móvil para elegir una contraseña nueva (mira también en spam).');
     setBusy(false);
   };
   return (
     <div className="auth">
       <div className="auth-deco"><Tunera size={90} /><Volcan size={90} /></div>
       <h1>Planes Adayai</h1>
-      <p className="hint">Los planes de Gran Canaria, para Aday y Yai.</p>
+      <p className="hint">{mode === 'reset' ? 'Recuperar contraseña' : 'Los planes de Gran Canaria, para Aday y Yai.'}</p>
       <form onSubmit={submit} className="auth-form">
         {mode === 'up' && <input required placeholder="Tu nombre" value={name} onChange={e => setName(e.target.value)} />}
-        <input required type="email" placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} />
-        <input required type="password" minLength={6} placeholder="Contraseña" value={pw} onChange={e => setPw(e.target.value)} />
-        <button className="btn primary" disabled={busy}>{mode === 'in' ? 'Entrar' : 'Crear cuenta'}</button>
+        <input required type="email" autoComplete="email" placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} />
+        {mode !== 'reset' && <input required type="password" minLength={6} autoComplete={mode === 'up' ? 'new-password' : 'current-password'} placeholder="Contraseña" value={pw} onChange={e => setPw(e.target.value)} />}
+        <button className="btn primary" disabled={busy}>{mode === 'in' ? 'Entrar' : mode === 'up' ? 'Crear cuenta' : 'Enviarme el enlace'}</button>
+        {err && <p className="warn">{err}</p>}
+        {ok && <p className="ok">{ok}</p>}
+      </form>
+      {mode === 'in' && <button className="link" onClick={() => { setMode('reset'); setErr(''); }}>¿Olvidaste tu contraseña?</button>}
+      <button className="link" onClick={() => { setMode(mode === 'in' ? 'up' : 'in'); setErr(''); setOk(''); }}>{mode === 'in' ? '¿No tienes cuenta? Créala' : 'Volver a entrar'}</button>
+    </div>
+  );
+}
+
+export function NewPasswordScreen({ onSave }) {
+  const [pw, setPw] = useState(''); const [pw2, setPw2] = useState('');
+  const [err, setErr] = useState(''); const [busy, setBusy] = useState(false);
+  const submit = async (e) => {
+    e.preventDefault(); setErr('');
+    if (pw !== pw2) return setErr('Las contraseñas no coinciden.');
+    setBusy(true); const r = await onSave(pw); setBusy(false);
+    if (r?.error) setErr(r.error.message);
+  };
+  return (
+    <div className="auth">
+      <div className="auth-deco"><Tunera size={90} /><Volcan size={90} /></div>
+      <h1>Nueva contraseña</h1>
+      <form onSubmit={submit} className="auth-form">
+        <input required type="password" minLength={6} autoComplete="new-password" placeholder="Contraseña nueva" value={pw} onChange={e => setPw(e.target.value)} />
+        <input required type="password" minLength={6} autoComplete="new-password" placeholder="Repítela" value={pw2} onChange={e => setPw2(e.target.value)} />
+        <button className="btn primary" disabled={busy}>Guardar y entrar</button>
         {err && <p className="warn">{err}</p>}
       </form>
-      <button className="link" onClick={() => setMode(mode === 'in' ? 'up' : 'in')}>{mode === 'in' ? '¿No tienes cuenta? Créala' : 'Ya tengo cuenta'}</button>
     </div>
   );
 }

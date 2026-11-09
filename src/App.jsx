@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import MapView from './components/MapView.jsx';
-import { FilterPanel, TimeBar, ListSheet, EventDetail, ProfilePanel, AuthScreen } from './components/Panels.jsx';
+import { FilterPanel, TimeBar, ListSheet, EventDetail, ProfilePanel, AuthScreen, NewPasswordScreen } from './components/Panels.jsx';
 import { Pintadera, ZigzagBand } from './components/Motifs.jsx';
 import { store, MODE, supabase } from './lib/store.js';
 import { applyFilters, activeFilterCount, EMPTY_FILTERS } from './lib/filters.js';
@@ -12,6 +12,7 @@ const loadFilters = () => { try { return { ...EMPTY_FILTERS, ...JSON.parse(local
 
 export default function App() {
   const [session, setSession] = useState(undefined);
+  const [recovery, setRecovery] = useState(false);
   const [me, setMe] = useState(null);
   const [events, setEvents] = useState([]);
   const [favSets, setFavSets] = useState({ mine: new Set(), partner: new Set() });
@@ -30,7 +31,7 @@ export default function App() {
   useEffect(() => {
     store.session().then(setSession);
     if (supabase) {
-      const { data } = supabase.auth.onAuthStateChange((_e, s) => setSession(s));
+      const { data } = supabase.auth.onAuthStateChange((ev, s) => { if (ev === 'PASSWORD_RECOVERY') setRecovery(true); setSession(s); });
       return () => data.subscription.unsubscribe();
     }
   }, []);
@@ -76,7 +77,8 @@ export default function App() {
   };
 
   if (session === undefined) return <div className="splash"><Pintadera size={72} /></div>;
-  if (!session) return <AuthScreen onSignIn={store.signIn} onSignUp={store.signUp} />;
+  if (recovery) return <NewPasswordScreen onSave={async (pw) => { const r = await store.updatePassword(pw); if (!r?.error) setRecovery(false); return r; }} />;
+  if (!session) return <AuthScreen onSignIn={store.signIn} onSignUp={store.signUp} onReset={store.resetPassword} />;
 
   const nFilters = activeFilterCount(filters);
   const winLabel = tab === 'match' ? 'Planes que os gustan a los dos'

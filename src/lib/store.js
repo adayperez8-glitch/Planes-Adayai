@@ -33,6 +33,8 @@ const demo = {
   async session() { return { user: { id: loadDemo().current } }; },
   async signIn() { return { error: null }; },
   async signUp() { return { error: null }; },
+  async resetPassword() { return { error: { message: 'En modo demo no hay contraseñas.' } }; },
+  async updatePassword() { return { error: null }; },
   async signOut() {},
   async me() {
     const s = loadDemo(); const u = s.users[s.current]; const p = s.users[other(s.current)];
@@ -72,6 +74,9 @@ const real = {
     return supabase.auth.signUp({ email, password, options: { data: { name } } });
   },
   async signOut() { await supabase.auth.signOut(); },
+  // Envía un email con un enlace que vuelve a la app para elegir contraseña nueva
+  async resetPassword(email) { return supabase.auth.resetPasswordForEmail(email, { redirectTo: window.location.origin }); },
+  async updatePassword(password) { return supabase.auth.updateUser({ password }); },
   async me() {
     const { data: { user } } = await supabase.auth.getUser();
     const { data: p } = await supabase.from('profiles').select('*').eq('id', user.id).single();
