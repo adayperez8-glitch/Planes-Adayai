@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:29:08Z",
+ "generated_at": "2026-11-10T09:30:24Z",
  "window_start": "2026-11-09T00:00:00+00:00",
  "window_end": "2026-11-15T23:59:59+00:00",
  "events": [
@@ -477,13 +477,17 @@
    "municipality": "Las Palmas de Gran Canaria",
    "lat": 28.1077,
    "lng": -15.4186,
-   "price_min": 23,
+   "price_min": 12,
    "price_max": 23,
    "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana",
    "sources": [
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana"
+    },
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
     }
    ],
    "conflicts": null
@@ -513,6 +517,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/danza-la-necesidad-de-ir-descalzas"
+    },
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.antoniopadron.com"
     }
    ],
    "conflicts": null
@@ -548,7 +556,7 @@
   {
    "id": "hebras-hiladas-en-la-cueva-pintada-20261113-galdar",
    "title": "Hebras hiladas en la Cueva Pintada",
-   "description": "Danza, acrobacia y música en el parque arqueológico.",
+   "description": "Danza, acrobacia y música en el parque arqueológico. Pide plaza para uno de los pases en la web de Cueva Pintada.",
    "category": "cultura",
    "subcategory": "danza",
    "tags": [
@@ -570,6 +578,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas"
+    },
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://cuevapintada.grancanaria.com/agenda"
     }
    ],
    "conflicts": null
@@ -1636,13 +1648,17 @@
    "municipality": "Las Palmas de Gran Canaria",
    "lat": 28.1077,
    "lng": -15.4186,
-   "price_min": 23,
+   "price_min": 12,
    "price_max": 23,
    "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana",
    "sources": [
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/teatro-flamenc-oh-de-yllana"
+    },
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
     }
    ],
    "conflicts": null
@@ -1797,7 +1813,7 @@
   {
    "id": "hebras-hiladas-en-la-cueva-pintada-20261114-galdar",
    "title": "Hebras hiladas en la Cueva Pintada",
-   "description": "Danza, acrobacia y música en el parque arqueológico.",
+   "description": "Danza, acrobacia y música en el parque arqueológico. Pide plaza para uno de los pases en la web de Cueva Pintada.",
    "category": "cultura",
    "subcategory": "danza",
    "tags": [
@@ -1819,6 +1835,10 @@
     {
      "name": "calendarioeventos",
      "url": "https://calendarioeventos.com/evento/performance-hebras-hiladas"
+    },
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://cuevapintada.grancanaria.com/agenda"
     }
    ],
    "conflicts": null
@@ -2570,6 +2590,188 @@
     {
      "name": "Turismo de Gran Canaria (Cabildo)",
      "url": "http://www.grancanaria.com/turismo/pt/agenda/agenda/?r=event%2Fview&event=7319&id=4066&L=8"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "nanino-el-nombre-hecho-canto-recital-lirico-20261112-ingenio",
+   "title": "Nanino, el nombre hecho canto: recital lírico",
+   "description": "Tenor Cristian Gheorghe Milea y piano: bel canto, mélodie francesa y canción latinoamericana. Gratis con inscripción previa.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-12T19:00:00+00:00",
+   "ends_at": "2026-11-12T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Fundación Nanino Díaz Cutillas",
+   "municipality": "Ingenio",
+   "lat": 27.9206,
+   "lng": -15.4366,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fundacionnanino.es",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fundacionnanino.es"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "conferencia-f-w-maitland-y-el-arte-de-lo-pintoresco-en-canar-20261112-telde",
+   "title": "Conferencia: F. W. Maitland y el arte de lo pintoresco en Canarias",
+   "description": "Por Santiago J. Henríquez. Arte y viajeros en la Gran Canaria del XIX.",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "exposiciones",
+    "patrimonio",
+    "museos"
+   ],
+   "starts_at": "2026-11-12T19:00:00+00:00",
+   "ends_at": "2026-11-12T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo León y Castillo",
+   "municipality": "Telde",
+   "lat": 27.994,
+   "lng": -15.418,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fernandoleonycastillo.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fernandoleonycastillo.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "performance-de-alejandra-glez-en-el-caam-20261112-las-palmas-de-gran-canaria",
+   "title": "Performance de Alejandra Glez en el CAAM",
+   "description": "Performance ritual sobre la migración atlántica entre España y Cuba (ciclo Visión y Presencia).",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "cultura",
+    "museos"
+   ],
+   "starts_at": "2026-11-12T19:00:00+00:00",
+   "ends_at": "2026-11-12T20:00:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "a-quien-pertenece-la-ciudad-desarrollo-local-en-clave-cultur-20261112-las-palmas-de-gran-canaria",
+   "title": "¿A quién pertenece la ciudad? Desarrollo local en clave cultural",
+   "description": "Charla de Chema Segovia, arquitecto y urbanista (Sala Cuarterías).",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "cultura"
+   ],
+   "starts_at": "2026-11-12T19:30:00+00:00",
+   "ends_at": "2026-11-12T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    },
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/charla-desarrollo-local-en-clave-cultural"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "la-hora-del-cuento-maria-buenadicha-20261113-las-palmas-de-gran-canaria",
+   "title": "La hora del cuento (María Buenadicha)",
+   "description": "Cuentos para disfrutar en familia en la sala infantil.",
+   "category": "infantil",
+   "subcategory": null,
+   "tags": [
+    "infantil",
+    "literatura"
+   ],
+   "starts_at": "2026-11-13T17:30:00+00:00",
+   "ends_at": "2026-11-13T18:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    },
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/taller-la-hora-del-cuento"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "festival-fex-2026-good-franco-20261114-las-palmas-de-gran-canaria",
+   "title": "Festival FEX 2026: Good Franco",
+   "description": "Rock con groove y sintetizadores desde Lanzarote, en formato íntimo.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos"
+   ],
+   "starts_at": "2026-11-14T19:30:00+00:00",
+   "ends_at": "2026-11-14T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Sala Insular de Teatro",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1063,
+   "lng": -15.4207,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://www.salainsulardeteatro.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.salainsulardeteatro.com"
+    },
+    {
+     "name": "calendarioeventos",
+     "url": "https://calendarioeventos.com/evento/concierto-festival-fex-2026-good-franco"
     }
    ],
    "conflicts": null

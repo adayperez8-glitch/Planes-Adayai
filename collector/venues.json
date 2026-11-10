@@ -218,5 +218,30 @@
   "municipality": "Las Palmas de Gran Canaria",
   "lat": 28.1046,
   "lng": -15.4171
+ },
+ "Biblioteca Insular de Gran Canaria": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1032,
+  "lng": -15.4162
+ },
+ "Sala Insular de Teatro": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1063,
+  "lng": -15.4207
+ },
+ "CAAM San Antonio Abad": {
+  "municipality": "Las Palmas de Gran Canaria",
+  "lat": 28.1001,
+  "lng": -15.4146
+ },
+ "Casa-Museo León y Castillo": {
+  "municipality": "Telde",
+  "lat": 27.994,
+  "lng": -15.418
+ },
+ "Casa-Museo Tomás Morales": {
+  "municipality": "Moya",
+  "lat": 28.1109,
+  "lng": -15.5833
  }
 }

@@ -4,7 +4,7 @@ import { FilterPanel, TimeBar, ListSheet, EventDetail, ProfilePanel, AuthScreen,
 import { Pintadera, ZigzagBand } from './components/Motifs.jsx';
 import { store, MODE, supabase } from './lib/store.js';
 import { applyFilters, activeFilterCount, EMPTY_FILTERS } from './lib/filters.js';
-import { weekendWindow, weekdayWindow, dayLabel } from './lib/time.js';
+import { weekendWindow, weekdayWindow, dayLabel, startOfDay } from './lib/time.js';
 import { pushSupport, pushEnabled, enablePush } from './lib/push.js';
 
 const LS_FILTERS = 'planes-adayai-filters';
@@ -107,6 +107,7 @@ export default function App() {
         {tab !== 'match' && <TimeBar window={win} day={filters.day} atTime={filters.atTime} allLabel={tab === 'finde' ? 'Todo el finde' : 'Toda la semana'}
           setDay={(d) => setFilters(f => ({ ...f, day: d }))} setAtTime={(t) => setFilters(f => ({ ...f, atTime: t }))} />}
         <ListSheet events={visible} state={sheet} setState={setSheet} onSelect={onSelect} favs={favs}
+          fromDay={filters.day ?? startOfDay(tab === 'match' ? new Date() : win.start).getTime()}
           emptyText={tab === 'match' ? 'Aún no hay matches. Marca planes con ❤️ y, si a tu pareja también le gustan, aparecerán aquí.' : 'No hay planes con estos filtros. Prueba a quitar alguno.'} />
       </main>
 

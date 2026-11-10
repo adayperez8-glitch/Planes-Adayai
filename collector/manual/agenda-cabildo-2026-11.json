@@ -1,0 +1,958 @@
+{
+ "source": "Agenda Cultural del Cabildo de Gran Canaria (PDF noviembre 2026)",
+ "events": [
+  {
+   "id": "exposicion-alma-de-nacar-enconchados-la-luz-de-mexico-20261101-las-palmas-de-gran-canaria",
+   "title": "Exposición «Alma de nácar: enconchados, la luz de México»",
+   "description": "Pinturas con incrustaciones de nácar del México de los siglos XVII y XVIII. Gratis. L–S 10–18 h, D 10–15 h.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-01T10:00:00+00:00",
+   "ends_at": "2027-01-10T15:00:00+00:00",
+   "all_day": true,
+   "venue": "Casa de Colón",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1014,
+   "lng": -15.415,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.casadecolon.com/actividades",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.casadecolon.com/actividades"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "exposicion-hacia-el-paradigma-leopoldo-emperador-20261106-las-palmas-de-gran-canaria",
+   "title": "Exposición «Hacia el paradigma»: Leopoldo Emperador",
+   "description": "Retrospectiva del escultor grancanario. Gratis. M–S 10–21 h, D 10–14 h.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-06T10:00:00+00:00",
+   "ends_at": "2027-03-28T14:00:00+00:00",
+   "all_day": true,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "exposicion-barreras-de-la-vision-de-tim-parchikov-20261101-las-palmas-de-gran-canaria",
+   "title": "Exposición «Barreras de la visión» de Tim Parchikov",
+   "description": "Fotografía sobre los límites de la percepción, hecha en Canarias. Gratis. M–S 10–21 h, D 10–14 h.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-01T10:00:00+00:00",
+   "ends_at": "2027-02-07T14:00:00+00:00",
+   "all_day": true,
+   "venue": "CAAM San Antonio Abad",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1001,
+   "lng": -15.4146,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "exposicion-antonio-padron-y-las-pioneras-de-la-abstraccion-e-20261101-galdar",
+   "title": "Exposición «Antonio Padrón y las pioneras de la abstracción en Canarias»",
+   "description": "Diálogo entre Padrón y las primeras abstractas canarias. M–D 10–18 h.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-01T10:00:00+00:00",
+   "ends_at": "2027-01-10T18:00:00+00:00",
+   "all_day": true,
+   "venue": "Casa-Museo Antonio Padrón",
+   "municipality": "Gáldar",
+   "lat": 28.145,
+   "lng": -15.6503,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.antoniopadron.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.antoniopadron.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "coloquios-fiak-jaume-tribo-maestro-apuntador-del-liceu-20261117-las-palmas-de-gran-canaria",
+   "title": "Coloquios FIAK: Jaume Tribó, maestro apuntador del Liceu",
+   "description": "Anécdotas del mundo de la ópera, por el 99.º aniversario de Alfredo Kraus.",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "cultura"
+   ],
+   "starts_at": "2026-11-17T19:30:00+00:00",
+   "ends_at": "2026-11-17T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Casa de Colón",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1014,
+   "lng": -15.415,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.casadecolon.com/actividades",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.casadecolon.com/actividades"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "caamclasico-sombras-del-romanticismo-20261118-las-palmas-de-gran-canaria",
+   "title": "CAAMclásico: «Sombras del Romanticismo»",
+   "description": "Flauta y piano con obras de compositoras olvidadas.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "cultura",
+    "museos"
+   ],
+   "starts_at": "2026-11-18T19:00:00+00:00",
+   "ends_at": "2026-11-18T20:30:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "curso-de-historia-derechos-civiles-en-la-transicion-20261119-telde",
+   "title": "Curso de historia: derechos civiles en la Transición",
+   "description": "Movimientos ciudadanos, mujeres y vecinos tras la muerte de Franco.",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "cultura"
+   ],
+   "starts_at": "2026-11-19T17:00:00+00:00",
+   "ends_at": "2026-11-19T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo León y Castillo",
+   "municipality": "Telde",
+   "lat": 27.994,
+   "lng": -15.418,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fernandoleonycastillo.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fernandoleonycastillo.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "encuentro-literario-con-mercedes-daly-lanusse-20261119-las-palmas-de-gran-canaria",
+   "title": "Encuentro literario con Mercedes Daly Lanusse",
+   "description": "En torno a la novela «Cabos sueltos».",
+   "category": "cultura",
+   "subcategory": "literatura",
+   "tags": [
+    "literatura",
+    "charlas"
+   ],
+   "starts_at": "2026-11-19T18:30:00+00:00",
+   "ends_at": "2026-11-19T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "hilos-del-atlantico-musica-entre-canarias-y-america-20261119-ingenio",
+   "title": "Hilos del Atlántico: música entre Canarias y América",
+   "description": "Músicos, cantadores y Coros y Danzas de Ingenio. Antes, a las 18:30, presentación de «Gran Canaria Singular: Calando cultura». Entrada gratis en tureservaonline.es.",
+   "category": "musica",
+   "subcategory": "folclore",
+   "tags": [
+    "folclore",
+    "conciertos",
+    "baile",
+    "patrimonio"
+   ],
+   "starts_at": "2026-11-19T19:30:00+00:00",
+   "ends_at": "2026-11-19T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Federico García Lorca",
+   "municipality": "Ingenio",
+   "lat": 27.9206,
+   "lng": -15.4366,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fundacionnanino.es",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fundacionnanino.es"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "la-hora-del-cuento-juan-antonio-gonzalez-20261120-las-palmas-de-gran-canaria",
+   "title": "La hora del cuento (Juan Antonio González)",
+   "description": "Cuentos para disfrutar en familia.",
+   "category": "infantil",
+   "subcategory": null,
+   "tags": [
+    "infantil",
+    "literatura"
+   ],
+   "starts_at": "2026-11-20T17:30:00+00:00",
+   "ends_at": "2026-11-20T18:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "presentacion-de-poemarios-mercurio-editorial-20261120-las-palmas-de-gran-canaria",
+   "title": "Presentación de poemarios (Mercurio Editorial)",
+   "description": "«Si de pronto un extraño» y «De lo que nos roza al pasar». A beneficio del Banco de Alimentos.",
+   "category": "cultura",
+   "subcategory": "literatura",
+   "tags": [
+    "literatura"
+   ],
+   "starts_at": "2026-11-20T19:00:00+00:00",
+   "ends_at": "2026-11-20T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-escape-room-20261120-las-palmas-de-gran-canaria",
+   "title": "Teatro: «Escape Room»",
+   "description": "Comedia con aires de thriller: cuatro amigos, un escape room y un cadáver.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-20T19:30:00+00:00",
+   "ends_at": "2026-11-20T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 12,
+   "price_max": 23,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-escape-room-20261121-las-palmas-de-gran-canaria",
+   "title": "Teatro: «Escape Room»",
+   "description": "Comedia con aires de thriller: cuatro amigos, un escape room y un cadáver.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-21T19:30:00+00:00",
+   "ends_at": "2026-11-21T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 12,
+   "price_max": 23,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-escape-room-20261122-las-palmas-de-gran-canaria",
+   "title": "Teatro: «Escape Room»",
+   "description": "Comedia con aires de thriller: cuatro amigos, un escape room y un cadáver.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-22T19:30:00+00:00",
+   "ends_at": "2026-11-22T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 12,
+   "price_max": 23,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "titeres-el-susurro-de-la-tierra-20261121-galdar",
+   "title": "Títeres: «El susurro de la tierra»",
+   "description": "Títeres sobre las plantas y sus usos tradicionales en Canarias.",
+   "category": "infantil",
+   "subcategory": null,
+   "tags": [
+    "infantil",
+    "patrimonio",
+    "museos"
+   ],
+   "starts_at": "2026-11-21T11:00:00+00:00",
+   "ends_at": "2026-11-21T12:00:00+00:00",
+   "all_day": false,
+   "venue": "Cueva Pintada",
+   "municipality": "Gáldar",
+   "lat": 28.1446,
+   "lng": -15.6557,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://cuevapintada.grancanaria.com/agenda",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://cuevapintada.grancanaria.com/agenda"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "festival-fex-2026-xerach-y-la-jelen-20261121-las-palmas-de-gran-canaria",
+   "title": "Festival FEX 2026: Xerach y La Jelen",
+   "description": "Batería y teclado en diálogo con la bailaora La Jelen.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos",
+    "baile"
+   ],
+   "starts_at": "2026-11-21T19:30:00+00:00",
+   "ends_at": "2026-11-21T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Sala Insular de Teatro",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1063,
+   "lng": -15.4207,
+   "price_min": 10,
+   "price_max": 10,
+   "url": "https://www.salainsulardeteatro.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.salainsulardeteatro.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "inauguracion-dejame-ser-mi-propio-testimonio-20261123-las-palmas-de-gran-canaria",
+   "title": "Inauguración: «Déjame ser mi propio testimonio»",
+   "description": "Fotografía de Generación 21 con versos de poetas canarias escritos sobre el cuerpo.",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "literatura"
+   ],
+   "starts_at": "2026-11-23T11:30:00+00:00",
+   "ends_at": "2026-11-23T13:00:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "a-quien-pertenece-la-ciudad-generacion-inquilina-20261124-las-palmas-de-gran-canaria",
+   "title": "¿A quién pertenece la ciudad? Generación inquilina",
+   "description": "Charla de Javier Gil (CSIC) sobre vivienda (Sala Cuarterías).",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas"
+   ],
+   "starts_at": "2026-11-24T19:30:00+00:00",
+   "ends_at": "2026-11-24T21:00:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "seminario-manolo-millares-inauguracion-con-alfonso-de-la-tor-20261124-las-palmas-de-gran-canaria",
+   "title": "Seminario Manolo Millares: inauguración con Alfonso de la Torre y Juan Manuel Bonet",
+   "description": "Centenario de Manolo Millares (1926–2026).",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "exposiciones",
+    "museos"
+   ],
+   "starts_at": "2026-11-24T18:00:00+00:00",
+   "ends_at": "2026-11-24T20:00:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "seminario-manolo-millares-coro-millares-isis-saz-y-concha-ro-20261125-las-palmas-de-gran-canaria",
+   "title": "Seminario Manolo Millares: Coro Millares, Isis Saz y Concha Romeu",
+   "description": "Centenario de Manolo Millares (1926–2026).",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "exposiciones",
+    "museos"
+   ],
+   "starts_at": "2026-11-25T18:00:00+00:00",
+   "ends_at": "2026-11-25T20:00:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "seminario-manolo-millares-paula-barreiro-y-marc-blanchet-20261126-las-palmas-de-gran-canaria",
+   "title": "Seminario Manolo Millares: Paula Barreiro y Marc Blanchet",
+   "description": "Centenario de Manolo Millares (1926–2026).",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "exposiciones",
+    "museos"
+   ],
+   "starts_at": "2026-11-26T18:00:00+00:00",
+   "ends_at": "2026-11-26T20:00:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "concierto-musicas-para-manolo-millares-20261127-las-palmas-de-gran-canaria",
+   "title": "Concierto «Músicas para Manolo Millares»",
+   "description": "Cierre del seminario del centenario, con Joan Gómez Alemany y Josep Lluis Galiana.",
+   "category": "musica",
+   "subcategory": "clasica",
+   "tags": [
+    "conciertos",
+    "museos"
+   ],
+   "starts_at": "2026-11-27T18:00:00+00:00",
+   "ends_at": "2026-11-27T19:30:00+00:00",
+   "all_day": false,
+   "venue": "CAAM",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1004,
+   "lng": -15.4157,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.caam.net",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.caam.net"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "novela-grafica-vida-moderna-y-otras-catastrofes-20261125-las-palmas-de-gran-canaria",
+   "title": "Novela gráfica «Vida moderna y otras catástrofes»",
+   "description": "Presentación del cómic de humor de Esther Nieto.",
+   "category": "popfriki",
+   "subcategory": "comic",
+   "tags": [
+    "literatura"
+   ],
+   "starts_at": "2026-11-25T18:30:00+00:00",
+   "ends_at": "2026-11-25T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "inauguracion-miro-mainou-vivir-y-pintar-en-moya-20261125-moya",
+   "title": "Inauguración: «Miró Mainou: vivir y pintar en Moya»",
+   "description": "Homenaje al pintor catalán afincado en Gran Canaria (hasta el 28 de marzo).",
+   "category": "cultura",
+   "subcategory": "pintura",
+   "tags": [
+    "exposiciones",
+    "museos",
+    "cultura"
+   ],
+   "starts_at": "2026-11-25T18:30:00+00:00",
+   "ends_at": "2026-11-25T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo Tomás Morales",
+   "municipality": "Moya",
+   "lat": 28.1109,
+   "lng": -15.5833,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.tomasmorales.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.tomasmorales.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "artivismo-lgtttbiq-coloquio-y-performance-20261126-moya",
+   "title": "Artivismo LGTTTBIQ+: coloquio y performance",
+   "description": "Cierre de las jornadas «Hablar por la diferencia».",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas",
+    "cultura"
+   ],
+   "starts_at": "2026-11-26T17:00:00+00:00",
+   "ends_at": "2026-11-26T19:00:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo Tomás Morales",
+   "municipality": "Moya",
+   "lat": 28.1109,
+   "lng": -15.5833,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.tomasmorales.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.tomasmorales.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "presentacion-un-dia-mas-juan-chope-20261126-las-palmas-de-gran-canaria",
+   "title": "Presentación: «Un día más, Juan Chope»",
+   "description": "Libro de Rocío Lasso Montés.",
+   "category": "cultura",
+   "subcategory": "literatura",
+   "tags": [
+    "literatura"
+   ],
+   "starts_at": "2026-11-26T18:30:00+00:00",
+   "ends_at": "2026-11-26T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "cine-al-oeste-en-zapata-ombligo-de-agua-20261126-las-palmas-de-gran-canaria",
+   "title": "Cine: «Al oeste, en Zapata» + «Ombligo de agua»",
+   "description": "Ciclo Miradas audiovisuales: pensar y comprender América.",
+   "category": "cultura",
+   "subcategory": "cine",
+   "tags": [
+    "cine",
+    "cultura"
+   ],
+   "starts_at": "2026-11-26T19:00:00+00:00",
+   "ends_at": "2026-11-26T20:45:00+00:00",
+   "all_day": false,
+   "venue": "Casa de Colón",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1014,
+   "lng": -15.415,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.casadecolon.com/actividades",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.casadecolon.com/actividades"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "romances-eternos-alexis-miranda-y-fofi-lusson-20261126-ingenio",
+   "title": "Romances eternos: Alexis Miranda y Fofi Lusson",
+   "description": "Boleros, rancheras y canción latinoamericana. Gratis con inscripción previa.",
+   "category": "musica",
+   "subcategory": "conciertos",
+   "tags": [
+    "conciertos",
+    "baile"
+   ],
+   "starts_at": "2026-11-26T19:00:00+00:00",
+   "ends_at": "2026-11-26T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Fundación Nanino Díaz Cutillas",
+   "municipality": "Ingenio",
+   "lat": 27.9206,
+   "lng": -15.4366,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fundacionnanino.es",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fundacionnanino.es"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "la-hora-del-cuento-aurora-armas-20261127-las-palmas-de-gran-canaria",
+   "title": "La hora del cuento (Aurora Armas)",
+   "description": "Cuentos para disfrutar en familia.",
+   "category": "infantil",
+   "subcategory": null,
+   "tags": [
+    "infantil",
+    "literatura"
+   ],
+   "starts_at": "2026-11-27T17:30:00+00:00",
+   "ends_at": "2026-11-27T18:30:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "visita-guiada-bajo-tus-pies-lo-que-guarda-el-almacen-20261127-galdar",
+   "title": "Visita guiada «Bajo tus pies: lo que guarda el almacén»",
+   "description": "El equipo de conservación enseña el almacén del museo. Inscripción desde el 12 de noviembre.",
+   "category": "caminatas",
+   "subcategory": "patrimonio",
+   "tags": [
+    "patrimonio",
+    "museos"
+   ],
+   "starts_at": "2026-11-27T18:30:00+00:00",
+   "ends_at": "2026-11-27T19:30:00+00:00",
+   "all_day": false,
+   "venue": "Cueva Pintada",
+   "municipality": "Gáldar",
+   "lat": 28.1446,
+   "lng": -15.6557,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://cuevapintada.grancanaria.com/agenda",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://cuevapintada.grancanaria.com/agenda"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "presentacion-semblanzas-literarias-de-santiago-j-henriquez-20261127-las-palmas-de-gran-canaria",
+   "title": "Presentación: «Semblanzas literarias» de Santiago J. Henríquez",
+   "description": "Escritos sobre literatura angloamericana.",
+   "category": "cultura",
+   "subcategory": "literatura",
+   "tags": [
+    "literatura"
+   ],
+   "starts_at": "2026-11-27T18:30:00+00:00",
+   "ends_at": "2026-11-27T20:00:00+00:00",
+   "all_day": false,
+   "venue": "Biblioteca Insular de Gran Canaria",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1032,
+   "lng": -15.4162,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://bibliotecainsular.grancanaria.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://bibliotecainsular.grancanaria.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "conferencia-no-olvidemos-a-las-mujeres-y-ninas-afganas-20261127-telde",
+   "title": "Conferencia: «No olvidemos a las mujeres y niñas afganas»",
+   "description": "Con Safia Jan Mohammad, jueza del Supremo afgano.",
+   "category": "charlas",
+   "subcategory": "charla",
+   "tags": [
+    "charlas"
+   ],
+   "starts_at": "2026-11-27T19:00:00+00:00",
+   "ends_at": "2026-11-27T20:30:00+00:00",
+   "all_day": false,
+   "venue": "Casa-Museo León y Castillo",
+   "municipality": "Telde",
+   "lat": 27.994,
+   "lng": -15.418,
+   "price_min": 0,
+   "price_max": 0,
+   "url": "https://www.fernandoleonycastillo.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.fernandoleonycastillo.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-el-entusiasmo-de-pablo-remon-20261127-las-palmas-de-gran-canaria",
+   "title": "Teatro: «El entusiasmo» de Pablo Remón",
+   "description": "Coproducción del Centro Dramático Nacional y Teatro Kamikaze.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-27T19:30:00+00:00",
+   "ends_at": "2026-11-27T21:35:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 12,
+   "price_max": 23,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  },
+  {
+   "id": "teatro-el-entusiasmo-de-pablo-remon-20261128-las-palmas-de-gran-canaria",
+   "title": "Teatro: «El entusiasmo» de Pablo Remón",
+   "description": "Coproducción del Centro Dramático Nacional y Teatro Kamikaze.",
+   "category": "cultura",
+   "subcategory": "teatro",
+   "tags": [
+    "teatro"
+   ],
+   "starts_at": "2026-11-28T19:30:00+00:00",
+   "ends_at": "2026-11-28T21:35:00+00:00",
+   "all_day": false,
+   "venue": "Teatro Cuyás",
+   "municipality": "Las Palmas de Gran Canaria",
+   "lat": 28.1077,
+   "lng": -15.4186,
+   "price_min": 12,
+   "price_max": 23,
+   "url": "https://www.teatrocuyas.com",
+   "sources": [
+    {
+     "name": "Agenda Cultural del Cabildo (nov 2026)",
+     "url": "https://www.teatrocuyas.com"
+    }
+   ],
+   "conflicts": null
+  }
+ ]
+}

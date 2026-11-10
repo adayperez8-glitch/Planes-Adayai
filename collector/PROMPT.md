@@ -44,6 +44,9 @@ Eres el recolector de eventos de **Planes Adayai**, una app privada con planes d
 | `sources` | `[{ "name": "...", "url": "..." }]`, una entrada por fuente donde apareció. |
 | `conflicts` | Texto o `null`. |
 
+## 4b. Planes manuales
+En `collector/manual/` hay planes que se cargaron a mano (por ejemplo, la agenda en PDF del Cabildo). No hace falta copiarlos: `scripts/ingest.mjs` los mezcla solo con tu lote y no duplica los que coincidan. Si encuentras uno de esos planes en otra fuente, inclúyelo con normalidad y se unirán las fuentes.
+
 ## 5. Guardar
 1. Escribe `events/AAAA-MM-DD.json` (fecha de hoy) con este formato:
    ```json

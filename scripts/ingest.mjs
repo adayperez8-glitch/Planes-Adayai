@@ -1,11 +1,36 @@
 // Valida un lote de eventos del recolector y, si hay credenciales, lo carga en Supabase.
 //   node scripts/ingest.mjs events/2026-11-12.json            → solo valida
 //   SUPABASE_URL=… SUPABASE_SERVICE_ROLE_KEY=… node scripts/ingest.mjs events/…json  → valida y carga
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { CATEGORIES, TAGS, zoneOfMunicipality } from '../src/data/taxonomy.js';
 
 const file = process.argv[2] || 'events/' + readdirSync('events').filter(f => f.endsWith('.json')).sort().at(-1);
 const batch = JSON.parse(readFileSync(file, 'utf8'));
+
+// --- Planes manuales (collector/manual/*.json, p. ej. la agenda PDF del Cabildo) ---
+// Se añaden a cualquier lote cuya ventana solapen. Si ya están (mismo día y título parecido,
+// o mismo sitio y hora), no se duplican: solo se suma su fuente al plan existente.
+const norm = (t) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ');
+const toks = (t) => new Set(norm(t).split(/\s+/).filter(w => w.length > 3));
+const sim = (a, b) => { const A = toks(a), B = toks(b); const i = [...A].filter(x => B.has(x)).length; return i / Math.max(1, Math.min(A.size, B.size)); };
+const dayOf = (iso) => new Date(iso).toLocaleDateString('sv-SE', { timeZone: 'Atlantic/Canary' });
+export function mergeManual(b, dir = 'collector/manual') {
+  const ws = Date.parse(b.window_start), we = Date.parse(b.window_end);
+  let added = 0, merged = 0;
+  if (!existsSync(dir)) return { added, merged };
+  for (const f of readdirSync(dir).filter(x => x.endsWith('.json'))) {
+    for (const m of JSON.parse(readFileSync(`${dir}/${f}`, 'utf8')).events || []) {
+      if (!(Date.parse(m.starts_at) < we && Date.parse(m.ends_at) > ws)) continue;
+      const dup = b.events.find(e => e.id === m.id || (dayOf(e.starts_at) === dayOf(m.starts_at) &&
+        (sim(e.title, m.title) >= 0.6 || (e.venue === m.venue && e.starts_at === m.starts_at && sim(e.title, m.title) >= 0.34))));
+      if (dup) { for (const x of m.sources || []) if (!(dup.sources ||= []).some(y => y.url === x.url)) dup.sources.push(x); merged++; }
+      else { b.events.push(structuredClone(m)); added++; }
+    }
+  }
+  return { added, merged };
+}
+const mm = mergeManual(batch);
+if (mm.added || mm.merged) console.log(`➕ Planes manuales: ${mm.added} añadidos, ${mm.merged} ya estaban (se suma la fuente)`);
 const tagIds = new Set(TAGS.map(t => t.id));
 const errors = [], warnings = [];
 

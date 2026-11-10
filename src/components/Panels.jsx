@@ -149,7 +149,9 @@ export function EventRow({ ev, onSelect, favs }) {
   );
 }
 
-export function ListSheet({ events, state, setState, onSelect, favs, emptyText }) {
+export function ListSheet({ events, state, setState, onSelect, favs, emptyText, fromDay = 0 }) {
+  // los planes de varios días (exposiciones…) se agrupan en el primer día que se está viendo
+  const gkey = (ev) => Math.max(startOfDay(new Date(ev.start)).getTime(), fromDay);
   const next = { peek: 'half', half: 'full', full: 'peek' };
   return (
     <section className={'sheet ' + state}>
@@ -160,8 +162,8 @@ export function ListSheet({ events, state, setState, onSelect, favs, emptyText }
       </button>
       <ul className="list">
         {events.map((ev, i) => {
-          const d = startOfDay(new Date(ev.start)).getTime();
-          const prev = i ? startOfDay(new Date(events[i - 1].start)).getTime() : null;
+          const d = gkey(ev);
+          const prev = i ? gkey(events[i - 1]) : null;
           return [
             d !== prev && <li key={'h' + d} className="day-head">{longDate(new Date(d))}</li>,
             <EventRow key={ev.id} ev={ev} onSelect={onSelect} favs={favs} />,

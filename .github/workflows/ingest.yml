@@ -3,7 +3,7 @@ name: Cargar eventos en Supabase
 on:
   push:
     branches: [main]
-    paths: ['events/*.json']
+    paths: ['events/*.json', 'collector/manual/*.json']
   workflow_dispatch:
 jobs:
   ingest:
